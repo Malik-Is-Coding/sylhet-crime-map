@@ -121,6 +121,138 @@
   "status": "approved"
  },
  {
+  "id": "037bc3c39938",
+  "u": "balaganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-02",
+  "t": "Murder reported in Balaganj",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKaXp2V3NNOV9ldGpPdFVUTzh3QTd2LU11eHF4TUxqVnE0ZWZ1WnZCc19zVHVMTEVEUlQ5dzh2U3RLQW1ZamwtWkdiNzI3SVdaMndSQw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4d769407058e",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-02",
+  "t": "Drugs reported in Jamalganj",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96cHZwV082S19KSl9iS3k4RUZZZXRWVFFIc2lmLS0yak1RMjkzNjhGdkdkYjVnWnZPOHVDOHdBdWx2LWRDOWRwS0RyVHIycWJHR3M5Z29XSGx1bkU?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "9d1102b20721",
+  "u": "su_chhatak",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Chhatak",
+  "src": "Aparadh Bichitra",
+  "l": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaE5ZZ09nSjFGcXI4UTdHSVJzWGRLaXBVY3o5WTJfSHpUWl9Qc2luNjdVLU1IQXIwSkpOUzAwem5paVFTMlZUMFVLTWNidldlQk9DTkxSWDRBNHZkNVNISW1LNC00dEJzeko5U3d2NnNoQTk0ek5ZU0VlVnNJM21lVW5GT0NNVUNkVzNVSXpjeVVOVWlhSXZLTlBCcVVqc01SMEpid0RvRXFLbENnZVVPUXVFc2o5LVJ2T1E0dWF3RDNaTFJfeXRPcDNYX3lOdVlIcjZjNUdUMTZ3c3JyZE9oa2VCSlhEZXZ5S0N6VENTNmM0WGs4T05aTGpCeG5wV2UxVGo4LXFOc19VeldRYUo4anlpNXZqblZWUEpva1JNaG12NVQ4TGxKRF9ZUmpGbXVYZHdLWnd4U1VkSTdJWHFEYzZvTGVrMTB6WUZMQVlzR3NtUQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4822c7f0034b",
+  "u": "ha_habiganjsadar",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-02",
+  "t": "Drugs reported in Habiganj Sadar",
+  "src": "বাংলাদেশের আলো",
+  "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MZVJxa1Z2TFlQbU5iU0htQ3g3SEFFV3hNblZSakJGNUl0OW5TYU1faElUS2hqNG9wczNVNklhMmJpM2JXQnZHTzRtS0FSQ3dxYUlqNWk3YVZUQTNsQ05vWUVCTHpZd2c?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "40d77112daa5",
+  "u": "ha_bahubal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Bahubal",
+  "src": "Dhaka Today",
+  "l": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxNWmpEdE9wd1ZaQkZBb0dkYmVuNmdZaTh2M1hXNl9QYUcwX0RuRk9rY0dLUU5aN1VJYW9VV0VWdHJfNFNpN2ppNmk5SVZ0RUxpdEZnVzhFMGo4SmVYYnA5amZGWWc1Z1pYQjJPczFrUXM0TDRKZmUzTGJJWHc1eVUwUGRyX095cXpQUUp4c0ExMFpKZzZ3V3pDV1VmS1ljMVNqc1F6Q0FUQ2RGbHVWRjBzcGoyWlFFZThvNFRiX1lhZndLSm5zOE90Y1VOdkNzUXNOOG5idTltd3lqXy1SYmtzM1VMd0ktY0luZkdsd3p2bTc4ZlUwOVpiREtndUFTc2p5WnFaelRSTjJ1NER4VlJrY0VIS2RDQ3RJOUdSdHNSRzZHVFQ3QzNIYXkxUG5SX0RCVjlwRHVNRlhvVHRHbFdObXp1X2FoN0ZyVXE1WU5YWjlUQ29rS1E5RDZSbGVlNWxuWHJObkVNZzdVNUVpRnhRR2ExdlNDbWVkX0ZKbzJwQjE3ejJueDZVaEtvRWdTVnJvU1pCamhzczZ1enlHQXRjRXZXRWF3MkdxUDdrb2IwYWlKSHdtRzJVR2NUclpNUXBsQ284djllZmlreUVZSG9MUlljOXk3ZVI3b1hHX2lvR2NHeUxXQkhjS3hCTTVUYkZRTndIR1NXR3hlRDZfc1BXY0k1bW05UzVadjJFSXhxUkdCMnFCV0xzeWJQb1h6UXZVdndaVHdYcEFDeVVreDZaMGl4czJDMjA3eHRCbEhpUWx0MmEzN05vVGZjM3Y5OW5KYkJMVUtQNUYwVVBHYUltYzd4UUo2N3FFWEU5NGk0RzBXb0pxWmVQNDkzemEzZ2NKX2ZLSmxBcHhoM3VQMVlRRUgxSVo5ZFhCU1dBVnBuTE9Ed05DVWV5a2tQbW1hQWlPXy1sczh3NHV3ZG9oV2xXX2lFNTZjZTZOeWlhZGlDR1VfNTZiY3NsTmd2TTZQRWVlTkE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "75ca0c30828a",
+  "u": "mo_barlekha",
+  "sev": 2,
+  "cat": "Fraud",
+  "d": "2026-11-02",
+  "t": "Fraud reported in Barlekha",
+  "src": "SAMAKAL",
+  "l": "https://news.google.com/rss/articles/CBMipgVBVV95cUxNWVJWOFR3VThraEMteXBKaDlBa05yNU5CY0Fka2l0LVgyRnhBWWNxLV9YNC12ZWFDVkM0aUUxeTZIYnFYTEU5UlQxb09vTVI0OTA2MFhFdFd6UVAxQ3FQbnNlQUlldmJxQVNWc1ozNXJ4amlvejhZNW5LWkJEZEwxSjNNWVVpdWlRSkwwcWptLXJMcDZ1N0ZMendDa3ZEcHNkSE1pZE9LMFdqUVV5UUZKd2ZlNG52UUt6dnFqM2k1Qm1qZHRlMkUxVml3NENsSkpwQTZBTlN5TVBXS0o0M1lnNndlXzNuNHlGUExSMV9CV25FZXBndk5JQnhOZ1JKVWR6YmRJNG5TaG5MMFJON2l3TWNjRnIxRlZkSkYyRTFrcGFNSHd4TXYxMlMydVhORHFKR2JLNkxDdUNSeGQ2b2xtMEpHa3NDaExTSDcwSjFsYkxPNFRuQ2NaY0phY3h4WkU5b0FGUldobkdJNlNfMlpOYkdnZEp2SVNIM0szVDktZzBaUGUxVTNoT0J0OGpvd3JUMVIzNmpHTF9HRFNFRmlDM00zU3Z2Rmxva2tMbTJsNmZQYkVUMy03T1ZLcGV2SDJJMFEybVQ3WmdocEw3UDNnRVhmOW1LT1B6VTd1Z2I0eG50T25aS29BZ1JvTkhNcFdIYmtXY0FhRWJZb09TXzhMVHZGVHZGdl91Vzg1Q1ZaRkhuNm1ObFlIbVhzc0VYdktuMk9pY0VFVzRodWdoOTQ1NkJRN1hGUWlwTDdBRnJsbHFoRnctX1FEaDIwQjN4SVF6cDRoWUVZSkh2cExHdWVpWi1qUVpZTVN5em5Bbi02NXhic0RBTEwxS0xJZkp4U08wOVg3MlczenAyV09BTURETVlEdDhRVlVmeUw3MXpfck40TU84Z0E?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "414bb4a52a1c",
+  "u": "mo_barlekha",
+  "sev": 2,
+  "cat": "Fraud",
+  "d": "2026-11-02",
+  "t": "Fraud reported in Barlekha",
+  "src": "দৈনিক আগামীর সময়",
+  "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoYUh1ZjdfMHZkYjRfSGlkX2N0OWZxYmtXcHpKanBTOS04cndyTDF6ckV2aDBqRm5QVHdzMi1qMl82S1BvSjVwc1lsZHlRUURfc1hsZ1VRZzA1Zlhv?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "259d929dddcb",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OZ2N1c1JhQjJHNFVXNE8tSkhxYjRzQi1vdzZxSlM3bFM5aXY0Yzk5a3hPOWFSbTVxNkZxX2xaUU1xNWpuZXRMOW1yM21IVXhDMVI0?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "a7a46523af23",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "Ajker Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JNWJxZVdMNFdCNWZaZDFJMUFfZG5mODVrS1hZdzV6TXdvX3NkUXNtUnEyRXRUamg2M2FOZms5M1FLWXU2OWlDbEh5MGN1MDdybHdKLXVUdFhER3FfbjBTVkFWbG5rY0c0N1BGQ0tGVHRVUEk?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ed9b6ce6efa4",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93SlpwUUpYZGJzcWJZYkFyUlJ1YUdKWDNmdEZlWC1qVEtIRHUxSkdSLXNuMzUtY3U3eEFWN3JOb2lJd1RKT2xYNGFhYURHWW9VSE5jRw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "de5df083694f",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "সকালের সময়",
+  "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5feElscGdyaVUwb2ZtZGlDWGpMUHBNUmhSX1duV1o0V0M0Y1JGWGk1WnoydXNPb2Y3Qks4MmdMYVdZSjlReXdxWkk5Nml4eHZ5QVJvcjBNNXA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "6aa2be2459fa",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsXzVQcU5SX1FQMjBCOG14UXhjYWJPYlB0QjZKd3BSX2V0UHVXR09vN3hYMFFKME5Yc09UV19GcVBCQjVrandyRm9vRDJtYzlNT3Aw?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "c0208dc7c99c",
   "u": "jaintiapur",
   "sev": 2,
@@ -261,6 +393,17 @@
   "t": "Assault reported in Sullah",
   "src": "Sylhet Today 24",
   "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyWFV3RjF4U1ZteDIzd3gtWlYya1h2TUNYM2hSb1l3VmM1RkRnb0x4SEhkd3Z2MUdzV3BQRGxNMk42aGlSdFdxWmxWU0JZMDN1NGhYb3o0WkdxY1M5ZlVPWXNDWGl6T3NR?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "80988a4bbcf5",
+  "u": "companiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-10-31",
+  "t": "Assault reported in Companiganj",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zWWhCZTR5MlF3bEVDNFQyRTZ3RzhSQUNHTGJBZ0FJc09wLVlSWnh2aUpvUjJCZ2ZSM0NCaE5YZXJxeVBHQmF0ajV2bHVxRGw0TGpoaw?oc=5",
   "status": "approved"
  },
  {
