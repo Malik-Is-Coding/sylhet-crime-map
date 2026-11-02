@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sylhet Division Crime Map</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;700&display=swap">
+<style>
+:root{--bg:#e8eef0;--panel:#f7fafb;--ink:#17262b;--mute:#5d7077;--line:#cbd7db;--land:#0f7c78;--s1:#e8b923;--s2:#ee8a2b;--s3:#d63b3b;--s4:#5b1a6e;--riv:#bcd6df;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1a1d;--panel:#16252a;--ink:#e3eef0;--mute:#8da3aa;--line:#2b4047;--land:#2bb3ac;--riv:#1d3a45;--s4:#c28bd6}}
+:root[data-theme="dark"]{--bg:#0f1a1d;--panel:#16252a;--ink:#e3eef0;--mute:#8da3aa;--line:#2b4047;--land:#2bb3ac;--riv:#1d3a45;--s4:#c28bd6}
+html{color-scheme:light dark;scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.5 "Hind Siliguri",system-ui,sans-serif}
+header{padding:16px 20px 8px;display:flex;flex-wrap:wrap;gap:8px 24px;align-items:baseline}
+h1{font-size:26px;margin:0;font-weight:700;letter-spacing:-.01em}
+header p{margin:0;color:var(--mute);max-width:60ch}
+.wrap{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(300px,1fr);gap:16px;padding:8px 20px 24px}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+.chip{border:1.5px solid var(--line);background:transparent;color:var(--ink);border-radius:20px;padding:3px 12px;font:inherit;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.chip[aria-pressed="true"]{border-color:var(--ink);background:var(--bg)}
+.chip i{width:11px;height:11px;border-radius:50%;display:inline-block}
+.chip.off{opacity:.45}
+select,input,textarea,button.btn{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:5px 8px}
+button.btn{background:var(--ink);color:var(--bg);cursor:pointer;border-color:var(--ink)}
+:focus-visible{outline:2px solid var(--land);outline-offset:2px}
+svg{width:100%;height:auto;display:block;border-radius:8px;background:var(--riv)}
+.up{stroke:var(--panel);stroke-width:2;cursor:pointer;transition:fill-opacity .2s}
+.up:hover{stroke:var(--ink)}
+.up.sel{stroke:var(--ink);stroke-width:3}
+.dl{font-size:17px;font-weight:700;fill:var(--ink);paint-order:stroke;stroke:var(--riv);stroke-width:4px;pointer-events:none}
+.lbl{font-size:10.5px;fill:var(--ink);pointer-events:none;text-anchor:middle;font-weight:500}
+.lbl.bn{font-size:10px;fill:var(--mute);font-weight:400}
+.pin{stroke:var(--panel);stroke-width:1.6;cursor:pointer}
+.pin.hl{stroke:var(--ink);stroke-width:3}
+.river{fill:none;stroke:var(--riv);stroke-width:9;opacity:.9;stroke-linecap:round}
+#list{max-height:340px;overflow:auto;margin:0;padding:0;list-style:none}
+#list li{padding:8px 4px;border-bottom:1px solid var(--line);cursor:pointer;display:grid;grid-template-columns:14px 1fr;gap:8px}
+#list li:hover,#list li.hl{background:var(--bg)}
+#list i{width:12px;height:12px;border-radius:50%;margin-top:6px}
+.meta{color:var(--mute);font-size:13px}
+h2{font-size:17px;margin:0 0 6px}
+#detail{min-height:90px}
+details summary{cursor:pointer;font-weight:500}
+form{display:grid;gap:8px;margin-top:10px}
+form label{display:grid;gap:2px;font-size:13px;color:var(--mute)}
+.note{font-size:12.5px;color:var(--mute);margin-top:10px}
+.side{display:grid;gap:16px;align-content:start}
+</style>
+</head>
+<body>
+<header>
+  <h1>সিলেট বিভাগ Crime Map</h1>
+  <p>Incidents reported in local and national newspapers, placed on the upazila where they happened. Sample data shown — add real reports below.</p>
+<span id="ts" class="meta">Showing sample data until the live feed loads</span></header>
+<div class="wrap">
+  <section class="card" aria-label="Map of Sylhet Division">
+    <div class="bar" id="sev"></div>
+    <div class="bar">
+      <label>District <select id="dis"><option value="">All four districts</option><option>Sylhet</option><option>Moulvibazar</option><option>Habiganj</option><option>Sunamganj</option></select></label>
+      <label>Period <select id="per"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="365">Last year</option><option value="99999">All time</option></select></label>
+      <label>Type <select id="cat"><option value="">All types</option></select></label>
+      <button class="chip" id="clr" type="button">Show whole division</button>
+    </div>
+    <svg id="map" viewBox="0 0 1000 720" role="img" aria-label="Schematic map of Sylhet district upazilas with incident markers"></svg>
+    <p class="note">Schematic map: upazila shapes and positions are approximate. Darker shading means more (and graver) reports. Marker position within an upazila is not the exact street.</p>
+  </section>
+  <div class="side">
+    <section class="card" aria-live="polite"><h2 id="dh">Select an incident</h2><div id="detail" class="meta">Click a marker or a headline to see where and when it was reported, and which paper ran it.</div></section>
+    <section class="card"><h2 id="lh">Reports</h2><ul id="list"></ul></section>
+    <section class="card">
+      <details><summary>Add a newspaper report</summary>
+      <form id="f">
+        <label>Headline<input id="fh" required maxlength="140"></label>
+        <label>Upazila<select id="fu"></select></label>
+        <label>Severity<select id="fs"><option value="1">1 – Minor (theft, petty offence)</option><option value="2" selected>2 – Moderate (robbery, fraud, assault)</option><option value="3">3 – Serious (rape, arson, grievous harm)</option><option value="4">4 – Gravest (murder, kidnapping)</option></select></label>
+        <label>Type<input id="fc" required maxlength="30" list="cl" placeholder="e.g. Robbery"><datalist id="cl"></datalist></label>
+        <label>Date reported<input id="fd" type="date" required></label>
+        <label>Newspaper<input id="fn" required maxlength="60" placeholder="e.g. Daily Prothom Alo"></label>
+        <label>Link to article (optional)<input id="fl" type="url" placeholder="https://"></label>
+        <button class="btn" type="submit">Add to map</button>
+      </form>
+      <p class="note">Reports you add are saved in this browser only. Treat unproven allegations carefully: publish only what the paper reported.</p>
+      </details>
+    </section>
+  </div>
+</div>
+<script>
+const NS="http://www.w3.org/2000/svg",SEV={1:["Minor","var(--s1)"],2:["Moderate","var(--s2)"],3:["Serious","var(--s3)"],4:["Gravest","var(--s4)"]};
+const UP={
+sadar:["Sylhet Sadar","সিলেট সদর","270,135 340,120 400,150 420,230 330,250 265,215"],
+jaintiapur:["Jaintiapur","জৈন্তাপুর","470,40 640,70 650,190 540,200 480,135"],
+gowainghat:["Gowainghat","গোয়াইনঘাট","330,30 470,40 480,135 400,150 340,120"],
+companiganj:["Companiganj","কোম্পানীগঞ্জ","190,40 330,30 340,120 270,135 195,110"],
+kanaighat:["Kanaighat","কানাইঘাট","400,150 480,135 540,200 650,190 640,300 520,290 430,250 420,230"],
+zakiganj:["Zakiganj","জকিগঞ্জ","520,290 640,300 650,400 540,410 500,340"],
+beanibazar:["Beanibazar","বিয়ানীবাজার","430,250 520,290 500,340 540,410 440,400 410,320"],
+golapganj:["Golapganj","গোলাপগঞ্জ","330,250 420,230 430,250 410,320 340,320"],
+fenchuganj:["Fenchuganj","ফেঞ্চুগঞ্জ","340,320 410,320 440,400 350,410"],
+balaganj:["Balaganj","বালাগঞ্জ","250,300 340,320 350,410 270,410 225,350"],
+dsurma:["Dakshin Surma","দক্ষিণ সুরমা","265,215 330,250 340,320 250,300 205,255"],
+osmani:["Osmani Nagar","ওসমানী নগর","140,160 195,110 270,135 265,215 205,255 140,240"],
+bishwanath:["Bishwanath","বিশ্বনাথ","205,255 250,300 225,350 150,350 110,290 140,240"]};
+for(const k in UP){UP[k][2]=UP[k][2].split(" ").map(s=>{const[x,y]=s.split(",");return(+x+330)+","+y}).join(" ");UP[k].d="Sylhet"}
+const DIS={
+Sunamganj:[[[30,60],[490,40],[445,300],[40,330]],[["Dharmapasha|ধর্মপাশা","Tahirpur|তাহিরপুর","Bishwamvarpur|বিশ্বম্ভরপুর","Dowarabazar|দোয়ারাবাজার"],["Jamalganj|জামালগঞ্জ","Sullah|শাল্লা","Sunamganj Sadar|সুনামগঞ্জ সদর","Chhatak|ছাতক"],["Derai|দিরাই","Shantiganj|শান্তিগঞ্জ","Dakshin Sunamganj|দক্ষিণ সুনামগঞ্জ","Jagannathpur|জগন্নাথপুর"]]],
+Habiganj:[[[60,362],[450,350],[500,690],[130,690]],[["Ajmiriganj|আজমিরীগঞ্জ","Baniachong|বানিয়াচং","Nabiganj|নবীগঞ্জ"],["Lakhai|লাখাই","Habiganj Sadar|হবিগঞ্জ সদর","Bahubal|বাহুবল"],["Madhabpur|মাধবপুর","Shaistaganj|শায়েস্তাগঞ্জ","Chunarughat|চুনারুঘাট"]]],
+Moulvibazar:[[[465,425],[980,420],[970,700],[505,700]],[["Rajnagar|রাজনগর","Kulaura|কুলাউড়া","Barlekha|বড়লেখা"],["Moulvibazar Sadar|মৌলভীবাজার সদর","Juri|জুড়ী"],["Sreemangal|শ্রীমঙ্গল","Kamalganj|কমলগঞ্জ"]]]};
+for(const dn in DIS){const[q,rows]=DIS[dn],n=rows.length,P=(u,v)=>[0,1].map(i=>Math.round((1-u)*(1-v)*q[0][i]+u*(1-v)*q[1][i]+u*v*q[2][i]+(1-u)*v*q[3][i])),vb=(r,u)=>(r==0||r==n)?r/n:r/n+.05*Math.sin(r*3+u*4),ub=(i,m,r)=>(i==0||i==m)?i/m:i/m+.03*Math.sin(i*5+r*2);
+ rows.forEach((row,ri)=>{const m=row.length;row.forEach((s,ci)=>{const[nm,bn]=s.split("|"),a=ci/m,b=(ci+1)/m,pts=[P(ub(ci,m,ri),vb(ri,a)),P(ub(ci+1,m,ri),vb(ri,b)),P(ub(ci+1,m,ri+1),vb(ri+1,b)),P(ub(ci,m,ri+1),vb(ri+1,a))];UP[dn.slice(0,2).toLowerCase()+"_"+nm.toLowerCase().replace(/[^a-z]/g,"")]=Object.assign([nm,bn,pts.map(p=>p.join(",")).join(" ")],{d:dn})})})}
+const DL={Sunamganj:[40,52],Habiganj:[70,356],Moulvibazar:[470,418],Sylhet:[760,22]};
+for(const k in UP){const p=UP[k][2].split(" ").map(s=>s.split(",").map(Number));UP[k].c=[p.reduce((a,q)=>a+q[0],0)/p.length,p.reduce((a,q)=>a+q[1],0)/p.length]}
+const day=n=>{const d=new Date();d.setDate(d.getDate()-n);return d.toISOString().slice(0,10)};
+let R=[
+["sadar",4,"Murder",2,"Man found dead in Zindabazar flat","Sample"],["sadar",2,"Robbery",5,"Mobile snatching reported near Amberkhana","Sample"],
+["sadar",1,"Theft",1,"Bicycle thefts rise around Subid Bazar","Sample"],["dsurma",3,"Arson",9,"Shop fire near Kamalbazar suspected arson","Sample"],
+["jaintiapur",2,"Smuggling",3,"Border-area stone and cattle smuggling seizure","Sample"],["gowainghat",3,"Illegal extraction",12,"Sand-lifting clash injures several","Sample"],
+["kanaighat",2,"Assault",6,"Land-dispute assault sends two to hospital","Sample"],["zakiganj",2,"Robbery",14,"Highway robbery on Zakiganj road","Sample"],
+["beanibazar",3,"Rape",18,"Case filed over assault of a schoolgirl","Sample"],["golapganj",1,"Theft",4,"Cable theft disrupts market lighting","Sample"],
+["fenchuganj",2,"Fraud",8,"Fertiliser factory fraud complaint","Sample"],["balaganj",4,"Kidnapping",21,"Trader abducted, later rescued","Sample"],
+["bishwanath",2,"Assault",7,"Clash at union council poll meeting","Sample"],["osmani",1,"Theft",11,"Cattle theft ahead of market day","Sample"],
+["companiganj",3,"Illegal extraction",25,"Quarry labourers hurt in stone-site dispute","Sample"]
+].map((a,i)=>({id:"s"+i,u:a[0],sev:a[1],cat:a[2],d:day(a[3]),t:a[4],src:a[5],l:""}));
+R=R.concat([
+["su_chhatak",3,"Illegal extraction",4,"Limestone-yard clash near Chhatak injures workers"],["su_tahirpur",3,"Illegal extraction",10,"Sand-lifting dispute at Tahirpur border"],
+["su_sunamganjsadar",2,"Robbery",6,"Shopkeeper robbed on Sunamganj town road"],["su_derai",4,"Murder",16,"Haor fisherman killed in fishing-rights feud"],
+["su_jagannathpur",2,"Assault",9,"Market brawl leaves three hurt in Jagannathpur"],["ha_habiganjsadar",2,"Fraud",3,"Fake-job fraud complaint filed in Habiganj town"],
+["ha_nabiganj",4,"Murder",13,"Body recovered from canal in Nabiganj"],["ha_chunarughat",3,"Arson",20,"Tea-estate storehouse fire under investigation"],
+["ha_madhabpur",1,"Theft",7,"Motorbike thefts reported near Madhabpur bazar"],["ha_baniachong",3,"Rape",26,"Case filed after assault of a young woman"],
+["mo_sreemangal",2,"Assault",5,"Tea-garden worker beaten over wage dispute"],["mo_kulaura",4,"Kidnapping",12,"Businessman abducted near Kulaura, later found"],
+["mo_barlekha",2,"Smuggling",2,"Border smuggling seizure in Barlekha"],["mo_moulvibazarsadar",1,"Theft",8,"Shop theft at Moulvibazar town market"],
+["mo_kamalganj",3,"Arson",17,"Rubber-plantation fire suspected arson"]
+].map((a,i)=>({id:"n"+i,u:a[0],sev:a[1],cat:a[2],d:day(a[3]),t:a[4],src:"Sample",l:""})));
+try{R=R.concat(JSON.parse(localStorage.getItem("sylhet-crime-user")||"[]"))}catch(e){}
+const $=id=>document.getElementById(id),el=(t,a={},p)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);p&&p.appendChild(e);return e};
+const st={sev:{1:1,2:1,3:1,4:1},u:"",sel:null};
+const hash=s=>{let h=0;for(const c of s)h=(h*31+c.charCodeAt(0))>>>0;return h};
+function filt(){const per=+$("per").value,cat=$("cat").value,lim=day(per);return R.filter(r=>st.sev[r.sev]&&(!cat||r.cat===cat)&&r.d>=lim&&(!st.u||r.u===st.u)&&(!$("dis").value||UP[r.u].d===$("dis").value)).sort((a,b)=>b.d.localeCompare(a.d))}
+function chips(){const b=$("sev");b.innerHTML="";for(const s in SEV){const c=document.createElement("button");c.className="chip"+(st.sev[s]?"":" off");c.type="button";c.setAttribute("aria-pressed",!!st.sev[s]);c.innerHTML=`<i style="background:${SEV[s][1]}"></i>${SEV[s][0]}`;c.onclick=()=>{st.sev[s]=!st.sev[s];chips();draw()};b.appendChild(c)}}
+function cats(){const cs=[...new Set(R.map(r=>r.cat))].sort(),v=$("cat").value;$("cat").innerHTML='<option value="">All types</option>'+cs.map(c=>`<option>${c}</option>`).join("");$("cat").value=v;$("cl").innerHTML=cs.map(c=>`<option value="${c}">`).join("")}
+function draw(){
+  const rows=filt(),svg=$("map");svg.innerHTML="";
+  el("path",{class:"river",d:"M0 340 C250 300 450 380 620 340 S880 300 1000 350"},svg);
+  const score={};rows.forEach(r=>score[r.u]=(score[r.u]||0)+r.sev);
+  const mx=Math.max(1,...Object.values(score));
+  for(const k in UP){const p=el("polygon",{points:UP[k][2],class:"up"+(st.u===k?" sel":""),fill:"var(--land)","fill-opacity":(.12+.6*(score[k]||0)/mx).toFixed(2),tabindex:0,role:"button","aria-label":UP[k][0]+" – "+(rows.filter(r=>r.u===k).length)+" reports"},svg);
+    p.onclick=()=>{st.u=st.u===k?"":k;draw()};p.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();p.onclick()}};}
+  for(const k in UP){const [x,y]=UP[k].c;const a=el("text",{x,y:y+(UP[k].d==="Sylhet"?20:26),class:"lbl"},svg);a.textContent=UP[k][0]}
+  for(const d in DL){const t=el("text",{x:DL[d][0],y:DL[d][1],class:"dl"},svg);t.textContent=d}
+  [...rows].sort((a,b)=>a.sev-b.sev).forEach(r=>{const h=hash(r.id),[x,y]=UP[r.u].c,ang=(h%360)*Math.PI/180,rad=8+(h>>3)%30;
+    const c=el("circle",{cx:x+Math.cos(ang)*rad,cy:y-8+Math.sin(ang)*rad*.7,r:5+r.sev*1.6,fill:SEV[r.sev][1],class:"pin"+(st.sel===r.id?" hl":""),tabindex:0,role:"button","aria-label":r.t},svg);
+    c.onclick=()=>pick(r.id);c.onkeydown=e=>{if(e.key==="Enter")pick(r.id)}});
+  $("lh").textContent=`Reports (${rows.length})`+(st.u?" – "+UP[st.u][0]:"");
+  const ul=$("list");ul.innerHTML="";
+  if(!rows.length){ul.innerHTML='<li class="meta">No reports match these filters. Widen the period or switch on more severity levels.</li>'}
+  rows.forEach(r=>{const li=document.createElement("li");li.className=st.sel===r.id?"hl":"";li.innerHTML=`<i style="background:${SEV[r.sev][1]}"></i><div><div>${esc(r.t)}</div><div class="meta">${UP[r.u][0]}, ${UP[r.u].d} · ${r.d} · ${esc(r.cat)}</div></div>`;li.onclick=()=>pick(r.id);ul.appendChild(li)});
+  const r=R.find(x=>x.id===st.sel);if(r)show(r)
+}
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function show(r){$("dh").textContent=r.t;const link=r.l&&/^https?:\/\//.test(r.l)?` <a href="${esc(r.l)}" target="_blank" rel="noopener noreferrer">Read the article</a>`:"";
+  $("detail").innerHTML=`<div><b style="color:${SEV[r.sev][1]}">●</b> ${SEV[r.sev][0]}, ${esc(r.cat)}</div><div class="meta">${UP[r.u][0]} (${UP[r.u][1]}), ${UP[r.u].d} · reported ${r.d}</div><div class="meta">Source: ${esc(r.src)}${link}</div>`}
+function pick(id){st.sel=id;draw()}
+$("clr").onclick=()=>{st.u="";$("dis").value="";draw()};$("per").onchange=draw;$("dis").onchange=()=>{st.u="";draw()};$("cat").onchange=draw;
+$("fu").innerHTML=Object.keys(UP).map(k=>`<option value="${k}">${UP[k][0]} (${UP[k].d})</option>`).join("");
+$("fd").value=day(0);$("fd").max=day(0);
+$("f").onsubmit=e=>{e.preventDefault();const r={id:"u"+Date.now(),u:$("fu").value,sev:+$("fs").value,cat:$("fc").value.trim(),d:$("fd").value,t:$("fh").value.trim(),src:$("fn").value.trim(),l:$("fl").value.trim()};
+  R.push(r);try{const u=R.filter(x=>x.id[0]==="u");localStorage.setItem("sylhet-crime-user",JSON.stringify(u))}catch(x){}
+  $("per").value="99999";st.sel=r.id;cats();e.target.reset();$("fd").value=day(0);draw()};
+async function feed(){try{const r=await fetch("reports.json?"+Date.now());if(!r.ok)return;const j=await r.json();
+  const live=j.filter(x=>x.status==="approved"&&UP[x.u]).map(x=>({id:"f"+x.id,u:x.u,sev:x.sev,cat:x.cat,d:x.d,t:x.t,src:x.src,l:x.l}));
+  R=R.filter(x=>x.src!=="Sample"&&x.id[0]!=="f").concat(live);cats();draw();$("ts").textContent="Live feed updated "+new Date().toLocaleTimeString()}catch(e){}}
+chips();cats();draw();feed();setInterval(feed,60000);
+</script>
+</body>
+</html>
