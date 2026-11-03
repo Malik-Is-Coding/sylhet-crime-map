@@ -88,6 +88,28 @@
   "status": "approved"
  },
  {
+  "id": "bbfba0de690c",
+  "u": "zakiganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-03",
+  "t": "Murder reported in Zakiganj",
+  "src": "Daily Naya Diganta",
+  "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ETU9kZXNjcjFKUWFDY2hld2RuNE9udUg2WWRhcnZHQnYtVmtYMWhZczFUOXVDVXhiZTk1MFNYZjg0aWpGdElvSjhwSUp4X0F6a3ZpTm5IU1VYelNoa1E?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "eaabd3483af4",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-03",
+  "t": "Assault reported in Kulaura",
+  "src": "Shironam",
+  "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTEtaWUgwWXVmOHpSTmNhbHJYYWlCbzgxOUJxdm15OFVMQUFVdEV0ZnBEOHJUSktNa3VLd0xRQmZEem9nWkUzM2Y3cE1aYm9LNFhzRE9nbDBKcUw1aEdaQkdOWDlwbUJsalRLbXk3dktkbHcwZEhnYWhvR1AwMmxqWVNmNA?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "ce340400123d",
   "u": "kanaighat",
   "sev": 3,
