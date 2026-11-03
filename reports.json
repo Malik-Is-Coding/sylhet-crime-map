@@ -1,5 +1,27 @@
 [
  {
+  "id": "4dabee989a04",
+  "u": "beanibazar",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-03",
+  "t": "Murder reported in Beanibazar",
+  "src": "beanibazarnews24",
+  "l": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMGhQUTN1eEcweC1IRWpSSlBETFJoWVJVX1FMUGlfbU1BSTNfdWpnVVdYLVEzdFN4NTYtSzAxVjZzWGVtOUptMTJyY19QRHYtTE5MMXVvOElVdm83Y1lsd0x5RHBtWFU4MWhQaWZiTjdkU0ZiVDBRb2hjdVBjUzFFcmdSRllhaTBPV2ZObFphRzd3Ulc1WjBsbUJyNHA1YVVSZGxPb2xaZnRrQTJOdXdkTk9nRC12bDlCdzBHN1IyY1FSVEhMeV85Vm9uQ3pzaXVocWlwRmR2UmIwMGV6R3ZUZ3BLc0xTdWozelc3cFpiaU93dy1McjlxREVveFNReWdDN2h2SDI5MkxzZkhwRDk1eFRTMzdVSHRsalpDWFZMcnBpbkg3Y2VWMDRNUGhicW5pWkVCU1c3REpwTFVVSW9Cc0lzSHA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "00cedfe56868",
+  "u": "mo_kamalganj",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-03",
+  "t": "Rape reported in Kamalganj",
+  "src": "Bangla Stream",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TRExyWTJ2WG9ueUV3aGVOUV9MZERILUNtelVVdHJnbTdURnlsOHU1UXFlLUtUdVlKUzF3eUd2alZkbHM0RUhMeDVYWGZEXzFwMXBRSw?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "ce340400123d",
   "u": "kanaighat",
   "sev": 3,
@@ -338,6 +360,17 @@
   "t": "Assault reported in Sullah",
   "src": "Bangla Tribune",
   "l": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOSVd4TW50QkhUb2xFRWgzb0xaUjFvR3FmcFlkbW15MmwyX0VIY0VJZ01veTF3NWxPd3NaN1V3NGZYY0NsakQtMnplV1B4SC1EUTlHMlJxVjIzb1BGX0lMVlJKSF92WDUxV3NnX2FWVE1CZ1U2eEJyNmNYNUxrS3VHSFFjMXQxLUxaTmVGcTRTRzVScFh3Tm1BdW41S2p1a09UelY2TXRHd3FweFBWdkI3Y0M4NlF1em9oekVzTjNlSV9XczVyUXMwS0FmTDdkMzVzQXFNdW1QUXhneVNLZFpUX0l1djI5LW1IaGtTN2lCZl90bU5LbnBWUHBfRXRYMmZLUGoyaG9COHRWanZSeUNsTmI5dVhwSmVEOXN0ajFKeWxNN0tFZ3RDLURxd2VwU3lkYkpXY3Y0UHZqRVZuTUs1UTNBcXVwUWloUmRKS01nMV9Hb1B1MlR6X1VQSUdsZm96dFkyeEdUNGJ2Y04wSjR5cU9iUW1zcnduaV9KRkducmUxbkhwY1Y1VFZ5cUZyNlJ6dExDRmhpbUdSbUpQdFV1U1VwUEhtTjNBVHRmZ3ZpWTFDaDZuODBCVmRXcjl4cXQ4Zy01OW5sLWg1cFcwbHhzZGFtT0YxM3o2aFpmcFhfT0Y5d3pZblh6QThyM01WQnI4RndxOXVkYWlSQ0J2QUdLckFsdHdrNm8zeDJ1TnhtSFNsZWJLYUlBQjhDTXhIM194d0poTHVDRWwxOGdERHNBMFZhM0ZnR3NWWmhSZjVKY1NwQkNmYVpqdUx6emNfZnp4YTlDZEZqS0lvTkpKWjhSSmtMV1FaLUZHSlR0MWFtOWdWNWN0V2RScl96QjRkd9IB_gRBVV95cUxOSVd4TW50QkhUb2xFRWgzb0xaUjFvR3FmcFlkbW15MmwyX0VIY0VJZ01veTF3NWxPd3NaN1V3NGZYY0NsakQtMnplV1B4SC1EUTlHMlJxVjIzb1BGX0lMVlJKSF92WDUxV3NnX2FWVE1CZ1U2eEJyNmNYNUxrS3VHSFFjMXQxLUxaTmVGcTRTRzVScFh3Tm1BdW41S2p1a09UelY2TXRHd3FweFBWdkI3Y0M4NlF1em9oekVzTjNlSV9XczVyUXMwS0FmTDdkMzVzQXFNdW1QUXhneVNLZFpUX0l1djI5LW1IaGtTN2lCZl90bU5LbnBWUHBfRXRYMmZLUGoyaG9COHRWanZSeUNsTmI5dVhwSmVEOXN0ajFKeWxNN0tFZ3RDLURxd2VwU3lkYkpXY3Y0UHZqRVZuTUs1UTNBcXVwUWloUmRKS01nMV9Hb1B1MlR6X1VQSUdsZm96dFkyeEdUNGJ2Y04wSjR5cU9iUW1zcnduaV9KRkducmUxbkhwY1Y1VFZ5cUZyNlJ6dExDRmhpbUdSbUpQdFV1U1VwUEhtTjNBVHRmZ3ZpWTFDaDZuODBCVmRXcjl4cXQ4Zy01OW5sLWg1cFcwbHhzZGFtT0YxM3o2aFpmcFhfT0Y5d3pZblh6QThyM01WQnI4RndxOXVkYWlSQ0J2QUdLckFsdHdrNm8zeDJ1TnhtSFNsZWJLYUlBQjhDTXhIM194d0poTHVDRWwxOGdERHNBMFZhM0ZnR3NWWmhSZjVKY1NwQkNmYVpqdUx6emNfZnp4YTlDZEZqS0lvTkpKWjhSSmtMV1FaLUZHSlR0MWFtOWdWNWN0V2RScl96QjRkdw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "6c6eaa7f18c6",
+  "u": "su_sullah",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-01",
+  "t": "Assault reported in Sullah",
+  "src": "Daily Sunamkantha",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xc1hiNVdZcmp5el90ekdfdEhVYV9JSW5uUVFPM282SWY1TGd1dkRMRERGd000dHA0LWtnLUdIRnlvM0U?oc=5",
   "status": "approved"
  },
  {
