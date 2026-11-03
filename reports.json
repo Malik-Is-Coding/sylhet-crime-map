@@ -22,6 +22,72 @@
   "status": "approved"
  },
  {
+  "id": "912c914f163a",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-03",
+  "t": "Assault reported in Kulaura",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GNHhCMXMtN1JkT0diaEJkNmREbndsVEZHUzA0R1B5NU1QQ1g2M21qYnh4bDRaOXY4MWJvbGsydkJyelprSVhtVWM1MHBVUWdEdmtJ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1c487f65e254",
+  "u": "jaintiapur",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-03",
+  "t": "Murder reported in Jaintiapur",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZHo0OGtESFFDT29LZjlJRFJIWnN5T05TWXNiS3hha2JfaTBUYTFuUmRPTTYtV1VlZ1Zmc003eWR5NHpmQkFIMkgxVWtBMnB3MkE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "46e08bb07441",
+  "u": "balaganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-03",
+  "t": "Murder reported in Balaganj",
+  "src": "দৈনিক ইনকিলাব",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWksyYk1SYmE1NkFhaldWMy1zNTRlblVSQkUzbm1qVl9ycDdwSDBoZTZuLXpMR0Zud3I0ODVjdERKaFg1SGl0Y21zdktaWGdOLUhfYVpoRkFMWTA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "cf59e0721931",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-03",
+  "t": "Assault reported in Kulaura",
+  "src": "karatoa.com.bd",
+  "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Rc012UWFsX1l3bTZwbDZ6Wmc3Tkt1VV80cTNwc3pOR0lPM05jLWdOMTRYZ05hcEZKU3lyRU5uSkpPNW5IWG80VC1GY3pEdnh1bmNzczdB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "86f94b5ac43f",
+  "u": "mo_kamalganj",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-03",
+  "t": "Rape reported in Kamalganj",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CcVpPYUJmcmlIcmdMV0ZZam1JZkZmb1ZHbENhMy0yY0xNZXFyX3pLQnFaUlFyX1FPUVFQcDYzX2h4RGRuVUlEMnZ6MzFvOG90aTh3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "76064190c15d",
+  "u": "mo_kamalganj",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-03",
+  "t": "Rape reported in Kamalganj",
+  "src": "Bangla Stream",
+  "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWeTlET1V3UjQxUlN5WTNQZ3hLMXctVGNrOWJ6RkNMYkw2WjRZSGJCX2I1YlkxZlVycDR5cVI2NWxEZGxtMmRmV0VqSkRwNDUyeUpXMHlua1ZQdw?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "ce340400123d",
   "u": "kanaighat",
   "sev": 3,
@@ -305,6 +371,17 @@
   "t": "Assault reported in Kamalganj",
   "src": "https://sokalersomoy.online/",
   "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1penAzaEJrMTBVUnhaYkJ3WFV5aG8zY1I5MEpIRVh4OWotcnNFVlFmdDhUcUFDd1lIOUtQV2RGdEkwY1dkdWJnanhyMHZubktX?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0ddf41f798f4",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "দেশ রূপান্তর",
+  "l": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOakVjN3F4VVNXNlE3TkhQT3J5SzdMV2h3cC1qODd4NG9vc1dFZVd3SjhZdkZqLXhfZ0d1V0ZsblRJeHFvOGtFam5rUUxXU3RXSDhNaXZ3SWtoaUlnYVcxMnpTSmlUdkhCRHRQRnZlZzJHY2RuMVNGMlFzZkVMTlJyV2xSZDVyQ01JdDhmVDdNQXlTZ0tZSzFrZVdDZGlBb0hBS1FUYlMweGYxdnZMMTdtYk50RU8tUExyR29xUVRTSG00YmtJLVczX2xDa2EwaTJHNnUyQzVZUlFucXd1djNIQTdxNWpSc1pzMXNBYU1wb1B6ZHhhWjJCMUpQSkFKT01abVRhZTlMdnFJV1VBeWo4c3plVk1JYmVpT0pxN2hCc1hJZU81YjEyTnBnYUdPU2hjU3JyM1pZTHk5SVE5Y080dzE3Wjd5TFIxeE85OFJKZ29rWXN2eWgydzJQMXNWZkZBMF9uZVI4OW00aGUyWUxUMFVqeDV3R3Joc3hDam9jcFd1QldXejhLRHJKQUdmc2xkeXZsU0U3Y3BwZGxRbTIyLVlYUHNYampISU5DUE00WVFKRDVUUGN4WXpkVlctc1diWDRaUUlDNDMtOUUtMDdYWVV1YWtyZjVoX0c2b2pIcU5GdWlEcFHSAesDQVVfeXFMT1l1WGhnTUlOZFFfMTRkdGx3aUYtNEt5ZEpMWU11SWJaZlNWWjJNWjg0Qk52WlpqV2FxRzNicnc5ek56TGRQUjFmLVVFeTRYNmtoVnJvMHVPSzFfWEN0elJaLXI4OFY3dFVuQy03TERoS1Nyb1ItZXZkdmFZaGJJZUE1NEk1Wm1Db2djZDdzc1RSa2VsTExMT1BQWlEwNkRveC11QWJuYVBjcVd1YWpaQkNfb1MzbmdLWGMweUljVzVfNVlFQVZfV0NLT195TDN1ZE0xRFBFODdMRmE2bzh1VnEzT3gzU29tQjZtR0N5M3NhdzJrMVFETnpQMUE2SzBSVXRpOEk1bFd4b0JWd2I1TllRZ29CUW1xTWFSSWNPOExHeFBLcW5LVU50ZndIZDZaYTgtRGVNdkRYdC15eVNwWTZJRHNHMVN4ODg3b0NPcFN3NzM1Q1BTVmFGdkdTb2tDOXlfcWpjWXluNXlFSkg1LWZjRXh2dW13alR2by1ITHQ3VnE1WXVhaVZ2aUZVOVJTVW9ldHRfT1RKSW5idlhZcW1BRER0bWNkbk1BRFB6cXp0OEJQaU5ZZkpJZWE5UWJDbE1fQUFSb2l4QVFXWmRMRjQ4Q2I2cFE2T2tpZ0tCY3pocHpkVXI0SUxGNG8?oc=5",
   "status": "approved"
  },
  {
