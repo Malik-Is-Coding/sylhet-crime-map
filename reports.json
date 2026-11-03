@@ -253,6 +253,39 @@
   "status": "approved"
  },
  {
+  "id": "5ffed7ac3a63",
+  "u": "ha_bahubal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Bahubal",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rLWcyeTJEeFVjSkRXSjJtZWxMYVpQczNGM1pveUFDb1RXTUpycEJBamNfbkJualZ3VmZBTzdfRllxT3ctUmhpUFBqMHV4TENTY0x3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "d1eb4ebf7e23",
+  "u": "ha_bahubal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Bahubal",
+  "src": "The Bangladesh Today",
+  "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVE5fOVh6YlZOZmdndE9HSTJYZ0tiQW1VLWxocWZvOURoNV9oT2syaTY5cVZzNnV6alVaZktRMVBxV05KQkl1Ni1RSXlxZWRwWGRkaG11TjJCamNFbld4SG1rQ0tCWDRzTlRiVlJjdVU?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "669fce922cb9",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-02",
+  "t": "Assault reported in Kamalganj",
+  "src": "https://sokalersomoy.online/",
+  "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1penAzaEJrMTBVUnhaYkJ3WFV5aG8zY1I5MEpIRVh4OWotcnNFVlFmdDhUcUFDd1lIOUtQV2RGdEkwY1dkdWJnanhyMHZubktX?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "c0208dc7c99c",
   "u": "jaintiapur",
   "sev": 2,
