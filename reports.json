@@ -187,6 +187,39 @@
   "status": "approved"
  },
  {
+  "id": "b560a7d28c7a",
+  "u": "su_chhatak",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-04",
+  "t": "Assault reported in Chhatak",
+  "src": "agrajatrapratidin.com",
+  "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeWNyQlhpazA1N1RWaEliQUNXc3U3Ukl2T2g5S2ZLanhsSWJMSTRVa2U3LUtBVkVwckttMTBmeEZjNnZWajVtZlNXZzZSVnFGWFBfRHJKRzd6Ny1sWjlHZDN3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "fcc5e4d03c9a",
+  "u": "su_chhatak",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-04",
+  "t": "Assault reported in Chhatak",
+  "src": "Daily Naya Diganta",
+  "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Fb0xCMTVlTi04bGIyaGE1eXdXMFVvS2huOVU3QnZXVk9YY2ZhVk5mYm5PQmF2d2dxMC1oX1RWYjVwaVZydDFkenE4Q3VPcFAwRGdvRmVLV3ZiY2dsN0E?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f39755479d07",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-04",
+  "t": "Robbery reported in Kulaura",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNa3pyN2tnSHU1ZGkwV2Rxb05pNDR3THBQYXA2djIzRTk3S1NGTjF3X0l1SDJUN1JQcU1YU3I2bERXOUU5T3JDUmpjbHB3OUhnb3c?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "4dabee989a04",
   "u": "beanibazar",
   "sev": 4,
