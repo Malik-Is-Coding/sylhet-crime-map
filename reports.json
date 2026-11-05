@@ -1,5 +1,16 @@
 [
  {
+  "id": "dfea3f417e53",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-05",
+  "t": "Drugs reported in Jamalganj",
+  "src": "Daily Sunamkantha",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5zT0k2R0g3NmRtTVVONzRDQmI2c2dfRkxaTHNlN1dsTXgtM1VWRU9JWmlYUTVCUnFxdl9nSGp6WWZPbkE?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "e09eaa8c4e7b",
   "u": "companiganj",
   "sev": 4,
