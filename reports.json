@@ -33,6 +33,50 @@
   "status": "approved"
  },
  {
+  "id": "83f17615e86b",
+  "u": "su_shantiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-05",
+  "t": "Assault reported in Shantiganj",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jcXo3Um8tZ0JEY2VFTWZwT1d1bEtTYk8wcnpGNTdHUUhldmFjcDc2amQ5WUdiU0EyOUg0M1czeFlRbjRoUkVTUkRCOHRueU15TU9HRTVfbzQ3cXM?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f9db1a53bcee",
+  "u": "ha_madhabpur",
+  "sev": 1,
+  "cat": "Theft",
+  "d": "2026-11-05",
+  "t": "Theft reported in Madhabpur",
+  "src": "Sylhet View 24",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QNkpjSGd5TzNrUDMzY0hETXpnX2FNZWtKcHAzbGozdzJzZUhoMTBUOVFzeDRaVGRQYWJrRm9zZGlOcjYxdE9FMFRVc2pHbV9HTElB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7e5890b2de78",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-05",
+  "t": "Assault reported in Madhabpur",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Qajdodlk0M0FFZ3dNcEZKR19qbWFENF9PSkFUaXdEZHpyV0RadlBzTm9nTzVkWXF6NXlmNmpBa2poUmtheFhIRjV3eHRWWHpVRXg0?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "9b048fd1c6b9",
+  "u": "ha_madhabpur",
+  "sev": 1,
+  "cat": "Theft",
+  "d": "2026-11-05",
+  "t": "Theft reported in Madhabpur",
+  "src": "Daily Times Of Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxONFNGaTgzV0xSMDNZXzUwaUFNaVpUZlRsQUVKMVBWLS1WVlVjR29yUjFJR2w3TEotcHdENmJiSG5jaXVvS2JXQ2hIZGtWSzBhenpUTDNzVFQ4SVpLWEdVaEpNM0FPb1Fuc3VSWjd4OGxZRVRTQTJjcFVnSERFaDFwZkUwZGd4czExSmxLY202Tk92MG5zdS1qOEY4MGJ6TVRDVXdSMDExRzdFdHZ5N3VIUkdibzFqOUM2Wm11LUVlQjJkSGhqV2tpS3plaXcxZW01S0lBWXpGMVFJRTBxd1pGeHNBUkk3Y2VOSWJJd2lVZnZHR0gxM0lrcjFKX0oycTZfXy1UdTAyUGNRaDVaZkRyZm9pWFFHeDVydUkxYW1CdHUxM2Q3QVkxOHYzSVRSZ0lGMWd6d1ZyOEVuMFNxWWxjV2sxWC10aTkw?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "e09eaa8c4e7b",
   "u": "companiganj",
   "sev": 4,
