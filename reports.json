@@ -77,6 +77,39 @@
   "status": "approved"
  },
  {
+  "id": "17ef79b8f002",
+  "u": "su_sullah",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-05",
+  "t": "Assault reported in Sullah",
+  "src": "Amar Desh",
+  "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GRWV5VllzdUM3ckFkQTJncmFZYktqT3ZrMWdJbDlwaFE5T3VuSkEtSkdoTmtxZmd1TTg2V2E0dEx5My1WcWJNNXRISjd2XzBuQ2xwM0duSWxJNzBmWXBUd3NCWWNDX0xXVE9JNDFn?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "3e92b4ebaee1",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-05",
+  "t": "Assault reported in Derai",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ITmNjY1l0SENtVkwza1c1Y3dObHBwR1FkcTNUS3BiWWtaaUU3ZkNjVVVEcGxNMXFmU1ZUYTRFVmg0WkdWOWV5VWJ1ZnE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7cf2dafba405",
+  "u": "su_sullah",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-05",
+  "t": "Assault reported in Sullah",
+  "src": "Amar Desh",
+  "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MUEVmeVhiUnJ0Ni1BUnNpX01zd2U0YmxfNk5aaTVjNnZzSFFfcEdldlhIVWRXWGRKT0djZ21uWTQ1YjRVRVpJbjNBSWtHS2xsMmNodHdRdkRwT3pNU04tRktKZFo3OUVIMDltQ0NrUW15cm8?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "e09eaa8c4e7b",
   "u": "companiganj",
   "sev": 4,
