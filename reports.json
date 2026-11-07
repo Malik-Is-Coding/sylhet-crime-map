@@ -121,6 +121,61 @@
   "status": "approved"
  },
  {
+  "id": "f0a187dd0d1a",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "দৈনিক আজকের দর্পণ",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZdGZHQ2EwLUR2bEZ1aF8wSER4Ry12RkR1azFkTS1rX0ZSckNoZzRlMTBGcmJ1UTB4Q1dXNnl0bnlibVZtRVlfelh3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "cb759c75f125",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zZHFOczJhc0FaMzkxSnowSjJEbUR0VC1TYXg0M3VQWXR0OWhhaktabnlQYURnNFptX05ubFZ3TVV0SjhoQ2ltM2xSTnlMNXQwNFo2eTI2SFNYQVk?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "c5c6817ab255",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Jamalganj",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91QVJMRHRiYWp2RXAza0ptcGtSNU5faHRlZDJuUFJLUk1ZczVWN3Z0RHlHeTh4d3Fla1dJV3RDeDg3VXhQMDB4SmR1OWE5NFNwWFM1ekd4cVVydjA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "434e21b32866",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jamalganj",
+  "src": "Amar Desh",
+  "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11NVQ4S01jZ3l0Rk5BbWkxdmhJTU5KcUlDcXN1c1R1dUxFdURmMlFWOXZGcTVpeWwySkVtTGVlZDEtMUdtbVczaGhuV1l5TmxoYmd0bDlDczhDTEh6VzhvYzE3amNqaVNSS3pMdzN3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b43e83bc7d86",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jamalganj",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PaGpqNDBUUGJIWW95WHJDQzlVVEF3bjRudVItUFVQQU9oM293NC1vTTJuWjloaTRSOEZ6SWpCdGtSTXNoWDc3dDBoSl80b1N5WXFzeVY1X0loclk?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "0977b5cb3a2d",
   "u": "jaintiapur",
   "sev": 2,
