@@ -176,6 +176,50 @@
   "status": "approved"
  },
  {
+  "id": "8b9902e65744",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Jamalganj",
+  "src": "Daily Sunamkantha",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBWbUVic3Rtbjd5ajdWUnp3R2lLcW9NLTgzRUdjNG1YRExpVVZUWkJDMVVSSWNTSDlvR21ZUjRJdkltbUk?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "72f7c2882639",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jamalganj",
+  "src": "Daily Sunamkantha",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE03R2xFdEZpRGQ5QzNZcHN5RVF6aHp3MUZpdHB4UGJRU3pUdVpjVGRuRThhNmNoejZYemFwdWR4UEdpT00?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "5c5de36a3014",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jamalganj",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdHV2Q3RISXpRZUJKbng1cGhXQWhzM2pfN1VMVVB4ck5FR3lELXdtNklGNWItZ3NveFJYRmcwcHF5TlZnUjlNY1dVX2xqUWk1ekE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ce4efffea5e8",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-07",
+  "t": "Robbery reported in Chunarughat",
+  "src": "Risingbd.com",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nbVV3WXNlM2wwUHJqZ1RPaGdnRHNlQm5aMUtsOW9Tbnl4b1hfNUdfN0FOMGhSZkVrQ0JiazNVOGJpZEJJTkJreFpyWmtZcXpya0xFR1RITllLT0HSAVJBVV95cUxQMjd5MlZfUDNWZ0cxTW4wclNiUjBvUDdCX1BtN25NMVh5eFRVZ0lZNGxaY0JNbDkyWHZaMk1OVVk4bEJicVloamt5RGFFcXNVWWJR?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "0977b5cb3a2d",
   "u": "jaintiapur",
   "sev": 2,
