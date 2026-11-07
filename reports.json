@@ -22,6 +22,105 @@
   "status": "approved"
  },
  {
+  "id": "d11afa9c7af7",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "Jaijaidin",
+  "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yakFqRC1RYU9ERDF5cHg0c3RvNmtzTzNfMFhxRjZxTmlNV2tOYks0V3B1d0JJREV4NTRqMzQ5UzlieFEyOENpZ003ck81TmM?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "9c418922014d",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "প্রতিদিনের কাগজ",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5Nk9XOWstT1RYNjltSUJJVG1KQjR4WmxYcWUyZmd5Y1dxTjVVMG13NmFVd29hSXpTdEozZVZ3NWtkWkN2ak9yWGRB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "e6bc4137e03f",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-07",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "দৈনিক এদিন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NLV9DaEFuWHdETU1adjYwdWlkSkhjVzRXdEpCQ0l1NWVFOURHQnIwdV9QTUM0aHBWMW1oYktVQzZaQTdhRVA2RDZ6TQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "47e0ef862ea3",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jamalganj",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EV0o4WW5jMDZuWk01RVMwZ0xGS2lQLUczcWV3UlFCd253VTluQTY5aGpTX0pYZEROWXVxNDZZWXNOTHN2Wk5rVUdrd1pKYkVwX3lsOXBSSDB2VEU?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7d3d85cf3447",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jamalganj",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XNkhVZ1ptcmFJX2dIUVdfeUdBbl91d0Z2NjhCdlA5QkNJNzIxM1R6NHJWeEJaWkZEVWJuUnQ0WTNWbkdPZ2RiZ092YVMxQjAtWkhvOQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "db9e30c978e2",
+  "u": "su_sullah",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Sullah",
+  "src": "Daily Tritiya Matra",
+  "l": "https://news.google.com/rss/articles/CBMiuAhBVV95cUxPZVJkTE1STlUzT2hRbWZGREk2dlltWHg4QlpsaDlmNnZEYXVDc29iWGFIeUdYMHhCTFNDNWxYbU9ReVp0cW1sUDFIbmJVdFA5YlVXc0VLdHpxREpURjR3ZFpBM0RyUEl0ZzdkY25JQ3hxM21XNGJ5NmpGYl9GMHFmc3I2RHhPVDBFam1iLWFGZWQxTlEyRDFPV044MXduSVcydEcycml6cTA3T0Ftdi1nVi1CZkNtNzVoc0VoSWM4Uk1VZmh1azJKNmt2c1R6TU1XTmRQUms2bWhOcjNOb2loOVhnOVc5Z3BHT2xObE9RM3FJVlJpeXJqNVVzaUVSNFRlTUxvVXJ2clhrSHg3cEU2ejZSdEFWWXhUNFFCUERickhQc0xPT2FOakRJb2J1dE9CVEJuS3NPU3Y1b0tKSFNPWF92MGppY3BFTW1aSHdNRmJiZ2JKY2g3RGgyT29iMjk3T0JBakNJWXdjV0Vkdlg4V1RWUzI5T0kyVWdfWkZwN2dyWVNaRkNfS1c3MFhrNmwzQk1uRGdxUXJlbkdIQjJnYU1RSkw1cmxpMk8ya0NWd0JSb2pidkMwbU53M3pvNXR6R2VHVzk1UTFMUHY2MGlzYTBDQWZibzBhako5UnRNLUhraFNlc1ZWdkI3UGlKSjkyN3pwNmx3Wmd0RmdkTW85ZWRhcDVYWUJDODBkY2hQa2FVMHVUYlNXLXFqWC1tMFQ5b2gxWjRnaTJFOGMxQnYydUpnenI4WFZhRjJock1ZZHU2VklJSWk2Mzd1OVhpb3NmQldPZkRKZThLOVRDemp3N0sybGw2cEN6V3RZcW0xTERDZkJqNUxxRThlWWl5amlfQkZkalVSSTZIa2xGa0QxUWtWTFRLMG9ZR2RBTHBGX0RfWlQzajZDM3I0V19mM0tSSmN4RU5wZEVlZkJMTGxjNE14ZVdCOVladjBpdkRVWkRwZXZDc1hlVWkySV9GS2hSMHVIOGFCSXFLdDFUQW9Hb00yLWtSMFpnVlk1LUJRTzZrb2xTNlhfZThuY3luMzNiVmtqR1V0c3A2T21tLWdrWEZyQ1RPNWg2ZFA0a3R3T01PcENSaEJIR2FVLXEyRTY4cjMwYS1aejUtUjlkZ1NrR1BFbDFVLWFNVXk1bkxuSWV1VE9IOGNqUnh4Zmt5VDM1cHNFMmdFdWppMFlmWDB5NFNMUGdfZklaM3AtR2tBUHZLeWhkNmpiNTN1dkFrdXZwdUtyb2lMbFowWlpTQU5VYk90UGxXZzh5QnVvRm5qMXlDVDZ0eEp5TnBad1BsUmpPUnd4RndGZDR0Ml96Zl9lR3poSGpoNDdoX2ZETWd6WERkcUxJM21MVXlmb3ZBbmtuTEZiY2NpTW1uYnowcDM4WnIxdDJjZ1d1UHhubV9NYjMzMmxpOXF3Z1RKMUZtVG10ZlNaTFhwZEw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "eb6c0b94e0f4",
+  "u": "su_jagannathpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jagannathpur",
+  "src": "Amar Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZ0tkdFJPSWt0WnR2bUNVaC1PbXhtVzU0MTlaYkFpYW5iZWxrQ1JSdGNfM1dEbnNFeVUxTHVPWG8yNE9TeTRkSFVMTTUtM214YTJVNzYwVE1VbEx0NnBkYdIBYEFVX3lxTE1MZ0tkdFJPSWt0WnR2bUNVaC1PbXhtVzU0MTlaYkFpYW5iZWxrQ1JSdGNfM1dEbnNFeVUxTHVPWG8yNE9TeTRkSFVMTTUtM214YTJVNzYwVE1VbEx0NnBkYQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f1e1c9405996",
+  "u": "su_jagannathpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-07",
+  "t": "Assault reported in Jagannathpur",
+  "src": "Amar Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbnUwWFoyeVFQZDdkRWQzMnEtMnFpYUhGMExIaGRTZlo0RUNiVy1uSjJhRUhSN3lnd0V6ejVfUGYyMmN5WVFGVG5kUm80TDl1Nk5Jdy1iajBwLUXSAWBBVV95cUxNTGdLZHRST0lrdFp0dm1DVWgtT214bVc1NDE5WmJBaWFuYmVsa0NSUnRjXzNXRG5zRXlVMUx1T1hvMjRPU3k0ZEhVTE01LTNteGEyVTc2MFRNVWxMdDZwZGE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "67f38d6045f7",
+  "u": "mo_rajnagar",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-07",
+  "t": "Robbery reported in Rajnagar",
+  "src": "newsg24",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IejA4X1QwUmM3dmQ5RVJiOU1TeVp5YzBXUDFTYWpMSVJ0azVGaGF3X3lBVU1JMHVCd1dJZkZWbm1xVFA5bGp4dC1DczNwWXpYdVN2aXNPUVZVdUE?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "0977b5cb3a2d",
   "u": "jaintiapur",
   "sev": 2,
@@ -173,6 +272,17 @@
   "t": "Theft reported in Madhabpur",
   "src": "SAMAKAL",
   "l": "https://news.google.com/rss/articles/CBMi1wZBVV95cUxQdXcwU1M1Q2NncGpnN19GZ09pWkctMjNYMzBoVmM4bjFRLUJRZG1WbWhlN3M0VkUtWkY2UURNOHFpVkRVbFFuakdOZGhZS2VpUVpQeWVJbm9ZWnMzcFFxUG9kTG83ZTFEZlNxRzBHeHlGWE4xUFJDdjNNT1VVa1FDeGRYeGxsQmFaSEgwUERzV040cG5NWFM5VWdNZW5fME11UmttbVpRSzF4dXN6Z21VVm94SWRXOEFLX3FvT3d4Z0tUR21xRnM3ZFZnYlVOLVlVMng1MVlpY1JVSHp5MlpYQ2FnQm1uVVRnX25SVWdUdnBHMmt6WmlTMTRZT2I4dUtfN2tFZTk5SjBCcnBlTlFnOTNXREFSSndqbXRlaW82QnBad3F1U2Z0Zmt6QTJ1dUo0S0EwNE9lcXZKNXZHaVhxTjZNWlJOaG5DeUVCZzhRb01kUzZCcFdmdXFwbWRRWmxJZ2M1VTJhLUI5S3NRMWZqYVdwM3RrZnhuMXFqaGQycXNkNjJMdVBOTGJmblVJQjFlWWdJXzJ2RFcxQmY4YmVPZ05pa3ozWC1nYVh2WnVFZUtYWl9zb0VkUGUtWnEtWklIbGlKSjZoUmZFbHBzOERpMVJPQVoyejNVU0RLcElHUmZzdHVjRHI4UTQtdEVaTGxoNjdwWFRDUkx3ZlZfOUhZeVloVnd6enlUUHFXWDBNVWJ1TkZYSEJvdlpLbjgyRUVROC14M2NwdHlHVTVua19ldmt6OV8yY1RWNUpERGVZMGZOZFlvRFU4a3VYelYyS09YNllNMmpKSGtJNGhxbE5EaGYzcmJJTG9WX09UdklVNlFyem4tTU9PYWFNcFpzV1RLTmFyUnRBSWdGR0tuOW5kWjBzYk1EcENLamlGdzlTQWJqUFM2UGJkZk92Y1lMT2RHWXlBYlVad2VValVaSmhoOS1SUmVvLWFRN2pYVldJeHRLcThNSV9tUF9GcHZKRGFXb1phelI3SG9iSlR3SG5oVzdQbWZBV3JiUjJQTHc2OGQzZGRwb3F6NXJkMFUxVTBpYjNDcENJNU5FN01LbjYxQzlqSWN3MFRSX08zVHdiTzhXTHRzM0lIZkxib2tJTGZJdnQxMTBEdS12X1dVOWd1VXU0cUlBckE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "6b6dbabd07c8",
+  "u": "ha_madhabpur",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-06",
+  "t": "Arson reported in Madhabpur",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUmg0MGdDelgwcnU5NmdXQTlpQlk5OGRGTzA4R1gwTnQ5SnVWSWF2QXdXc21aV1gzUDBYaUtLc05Xd0NfNXctNWpDU0dQQzhielhkQw?oc=5",
   "status": "approved"
  },
  {
