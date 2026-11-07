@@ -88,6 +88,39 @@
   "status": "approved"
  },
  {
+  "id": "75ebe7ed4f31",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-06",
+  "t": "Drugs reported in Sreemangal",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wU2NJYVVZd091UGpBVVREY3FuWHdWMkp1My1hcHF2UmFxLTJJOHppWkR4Qlo0THpXUG1Ddjh4SkpjX0pTN0N1RDJ2bUZ2ZnQtbm1lWg?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4286990d0ff1",
+  "u": "mo_rajnagar",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-06",
+  "t": "Robbery reported in Rajnagar",
+  "src": "দেশ রূপান্তর",
+  "l": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPVmozVEYyYmJCOEtYYXBFWUtBcFlvMzNDSmJiQURZZGdPVmxmeG95NTk5VVhzOUo3TlVtRTRHZndUejFRRE1wa3IxbW9zV2ctRDY1U1VwWml2MzlyanVIZW9IQmFyVkZRc29iNkVzOXc3WjYwck5pZFpmenZXNkJBaWROZ2xKZC1GZ3FGbjFyRUJZQ3p2TTJEcHJDaV9mLWE0ZHpTLWctTmhUUGRnTTJadUJsRkFBRGU4bk1VXzVsYTVwUFgybUw0QkZXRDRjckdHQlN3WnYyRXlmeHdRTFpoSmN2NzRFZUoxV1FiVFNnemdfeVlxU3ZtN0ZQX0EwZHROX0NZRVJhWUdkVFl6MEx5MWMxVUZSS0FBVzc4aTFqZU5SaHNpRWdCcnd6ZUN3NmhRQ3FYeTNPOVp3LWFoREZWMmlNVGgyclJFakNuc1pqVDhQZ1VGc2RrcWFEMEE0VkRBNnpyNVBIenFNdEY2U1RYRGFMZndGc05YcmM3QTVjYm9qMEVMVDQ2azlwdTBfc2IteUNES3RIT1lpRDE0dEt5RG5rRktUVjVzd1NCX0swMGZHLWvSAbMDQVVfeXFMT1ZqM1RGMmJiQjhLWGFwRVlLQXBZbzMzQ0piYkFEWWRnT1ZsZnhveTU5OVVYczlKN05VbUU0R2Z3VHoxUURNcGtyMW1vc1dnLUQ2NVNVcFppdjM5cmp1SGVvSEJhclZGUXNvYjZFczl3N1o2MHJOaWRaZnp2VzZCQWlkTmdsSmQtRmdxRm4xckVCWUN6dk0yRHByQ2lfZi1hNGR6Uy1nLU5oVFBkZ00yWnVCbEZBQURlOG5NVV81bGE1cFBYMm1MNEJGV0Q0Y3JHR0JTd1p2MkV5Znh3UUxaaEpjdjc0RWVKMVdRYlRTZ3pnX3lZcVN2bTdGUF9BMGR0Tl9DWUVSYVlHZFRZejBMeTFjMVVGUktBQVc3OGkxamVOUmhzaUVnQnJ3emVDdzZoUUNxWHkzTzlady1haERGVjJpTVRoMnJSRWpDbnNaalQ4UGdVRnNka3FhRDBBNFZEQTZ6cjVQSHpxTXRGNlNUWERhTGZ3RnNOWHJjN0E1Y2JvajBFTFQ0Nms5cHUwX3NiLXlDREt0SE9ZaUQxNHRLeURua0ZLVFY1c3dTQl9LMDBmRy1r?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ce9822cbf686",
+  "u": "mo_kamalganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-06",
+  "t": "Murder reported in Kamalganj",
+  "src": "Jagonews24",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KRTlCYzdUYkdEWTJxbGR1TjF2Mk9nWTNqdVFpZGpqNHVtdGU0YW81R2V1dWdkWE5rQnJlSWxjZzJ1STV3dHNUS2tvSWlLMFlZMTRTa0kyN3VvbUE?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "dfea3f417e53",
   "u": "su_jamalganj",
   "sev": 2,
