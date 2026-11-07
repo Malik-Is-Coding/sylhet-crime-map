@@ -1,5 +1,27 @@
 [
  {
+  "id": "04cdbf12a4a1",
+  "u": "mo_rajnagar",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-07",
+  "t": "Robbery reported in Rajnagar",
+  "src": "Daily Bhorer Dak",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jQXBhLTBtSzRTQkFjVXpGSEFSc3JyNjZrQ0RTSVJoa3FMWm16WUZvTWI2UDNZbGpTRlJBUXQ1cWhRejhWUlZFSFZKdG9PSTI1QlRtZQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "516f1ffdcb32",
+  "u": "mo_rajnagar",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-07",
+  "t": "Robbery reported in Rajnagar",
+  "src": "দৈনিক আগামীর সময়",
+  "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RMGpFVk1tQ1BLN1JidWE2RHVPbGFKQ2NpUTNpLUhQRFJ6NmJmeC00M2lsbDRoV0JNNVpFMlNjTW82X0Y4TWdSN3VUZVl0YUJsSTV3TDRJTHl4WnFk?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "0977b5cb3a2d",
   "u": "jaintiapur",
   "sev": 2,
@@ -118,6 +140,39 @@
   "t": "Murder reported in Kamalganj",
   "src": "Jagonews24",
   "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KRTlCYzdUYkdEWTJxbGR1TjF2Mk9nWTNqdVFpZGpqNHVtdGU0YW81R2V1dWdkWE5rQnJlSWxjZzJ1STV3dHNUS2tvSWlLMFlZMTRTa0kyN3VvbUE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "17703cd76a2d",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-06",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pOGdYVmlmaDFmbXRWUjZ5VU5PTFpHQmR1VzhaZjVkWF9QNWp3NFNnZHNQSTRCcnFablBodXh5Qml3UHBaMDFQbEpPZmNmd0JZdGYw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "a8a6b5ba8664",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-06",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yVWxKdEVqSlVNWnBFYl80R011Y3VOY2ZTWXZCZWJLVk1LdVlha2Zvb3JMaXFhUFlsWVo3b3hIdzRTUW1pSFk4RmxPTHJ1TFdtaW9n?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b0be971ae237",
+  "u": "ha_madhabpur",
+  "sev": 1,
+  "cat": "Theft",
+  "d": "2026-11-06",
+  "t": "Theft reported in Madhabpur",
+  "src": "SAMAKAL",
+  "l": "https://news.google.com/rss/articles/CBMi1wZBVV95cUxQdXcwU1M1Q2NncGpnN19GZ09pWkctMjNYMzBoVmM4bjFRLUJRZG1WbWhlN3M0VkUtWkY2UURNOHFpVkRVbFFuakdOZGhZS2VpUVpQeWVJbm9ZWnMzcFFxUG9kTG83ZTFEZlNxRzBHeHlGWE4xUFJDdjNNT1VVa1FDeGRYeGxsQmFaSEgwUERzV040cG5NWFM5VWdNZW5fME11UmttbVpRSzF4dXN6Z21VVm94SWRXOEFLX3FvT3d4Z0tUR21xRnM3ZFZnYlVOLVlVMng1MVlpY1JVSHp5MlpYQ2FnQm1uVVRnX25SVWdUdnBHMmt6WmlTMTRZT2I4dUtfN2tFZTk5SjBCcnBlTlFnOTNXREFSSndqbXRlaW82QnBad3F1U2Z0Zmt6QTJ1dUo0S0EwNE9lcXZKNXZHaVhxTjZNWlJOaG5DeUVCZzhRb01kUzZCcFdmdXFwbWRRWmxJZ2M1VTJhLUI5S3NRMWZqYVdwM3RrZnhuMXFqaGQycXNkNjJMdVBOTGJmblVJQjFlWWdJXzJ2RFcxQmY4YmVPZ05pa3ozWC1nYVh2WnVFZUtYWl9zb0VkUGUtWnEtWklIbGlKSjZoUmZFbHBzOERpMVJPQVoyejNVU0RLcElHUmZzdHVjRHI4UTQtdEVaTGxoNjdwWFRDUkx3ZlZfOUhZeVloVnd6enlUUHFXWDBNVWJ1TkZYSEJvdlpLbjgyRUVROC14M2NwdHlHVTVua19ldmt6OV8yY1RWNUpERGVZMGZOZFlvRFU4a3VYelYyS09YNllNMmpKSGtJNGhxbE5EaGYzcmJJTG9WX09UdklVNlFyem4tTU9PYWFNcFpzV1RLTmFyUnRBSWdGR0tuOW5kWjBzYk1EcENLamlGdzlTQWJqUFM2UGJkZk92Y1lMT2RHWXlBYlVad2VValVaSmhoOS1SUmVvLWFRN2pYVldJeHRLcThNSV9tUF9GcHZKRGFXb1phelI3SG9iSlR3SG5oVzdQbWZBV3JiUjJQTHc2OGQzZGRwb3F6NXJkMFUxVTBpYjNDcENJNU5FN01LbjYxQzlqSWN3MFRSX08zVHdiTzhXTHRzM0lIZkxib2tJTGZJdnQxMTBEdS12X1dVOWd1VXU0cUlBckE?oc=5",
   "status": "approved"
  },
  {
@@ -250,6 +305,17 @@
   "t": "Fraud reported in Nabiganj",
   "src": "Habiganj ExPress |",
   "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtRXowVHNGanNjd3pUSERYSWFDUk9uZW5ubkJZSkNBRFd2SVpvY1lvZW0wcFpqTnJ4ZGJZU0dFVkdVc2Z1cEtYWEw5QjZTX01WTWIw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "94537da2449f",
+  "u": "mo_kamalganj",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-05",
+  "t": "Rape reported in Kamalganj",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iU1Q1Y0tIb3RxS1p6ajNpMEtrc3ljdUFOSjN4N2JzTkZPd0RUSEs3WVFFRkd4clZsVVctYTdwRkE2OF8walhvc1Rjc2FIQ3ZyLVE?oc=5",
   "status": "approved"
  },
  {
