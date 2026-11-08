@@ -154,6 +154,17 @@
   "status": "approved"
  },
  {
+  "id": "5d0e0add592a",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-08",
+  "t": "Assault reported in Kulaura",
+  "src": "Somoy Kulaura",
+  "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QNDZLZmwtWWItV1cwLUthbTNyeHVqcUlDWGM1NWtoX2VSQ2ZhdUpHRGdjMFctNHRvaF9GdFc5dE1kdWU3SFBqc3JBekhJZVNM?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "04cdbf12a4a1",
   "u": "mo_rajnagar",
   "sev": 2,
