@@ -1,5 +1,16 @@
 [
  {
+  "id": "2488ef16622a",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-08",
+  "t": "Assault reported in Nabiganj",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBocERJdVhzT2tZMmhJVHFtWHlWNDZOU1ZSbmptYWRiUU9Ua1JjdW04dVhFUHhlWm44cEJtTnJEMEp4endhb1hwU1UwMEtxcXZzZ1E?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "04cdbf12a4a1",
   "u": "mo_rajnagar",
   "sev": 2,
@@ -217,6 +228,17 @@
   "t": "Robbery reported in Chunarughat",
   "src": "Risingbd.com",
   "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nbVV3WXNlM2wwUHJqZ1RPaGdnRHNlQm5aMUtsOW9Tbnl4b1hfNUdfN0FOMGhSZkVrQ0JiazNVOGJpZEJJTkJreFpyWmtZcXpya0xFR1RITllLT0HSAVJBVV95cUxQMjd5MlZfUDNWZ0cxTW4wclNiUjBvUDdCX1BtN25NMVh5eFRVZ0lZNGxaY0JNbDkyWHZaMk1OVVk4bEJicVloamt5RGFFcXNVWWJR?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0e3792daa45f",
+  "u": "mo_rajnagar",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-07",
+  "t": "Robbery reported in Rajnagar",
+  "src": "newsg24",
+  "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOTNaNEIyQkRCZW00S1MxNjdERDE1VnpjWldrSHYxX0VRUjh6cEZ2WHMzZWJXSTZsM25GZHNZb0t2cy1nbDk2UUJLczk0Tlo1dE1QMDdHNHNock10?oc=5",
   "status": "approved"
  },
  {
