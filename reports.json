@@ -121,6 +121,39 @@
   "status": "approved"
  },
  {
+  "id": "e70e98d04e06",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Madhabpur",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b1lCUFBjNUFncU9yYkc2blBNbUpTWTF4WnVOU2VZencxLThFRFZBcG1HdmxldG1LRzVKVHdYZGVZazlkZE1iaUhGQncwWlV5dnc?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f12f50e54b99",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-08",
+  "t": "Assault reported in Kulaura",
+  "src": "Jagonews24",
+  "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rdlcyWGJpaEtlN21LdG5EbWZJZEVxcFlqVGU3Yy0xWUV2X2dqVHlUR1VJNW54ZGIxNi1JMHB0SFpYbUV5eWtBZUlpNzRTMnZ5OUhlM2I2RnE3YlZNTy1INjBEWlRfUQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "723e305a03b0",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-08",
+  "t": "Assault reported in Kulaura",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bmJ6a2Y5by1WZWFTVWlHalZtLTNtVnY5VDgxa2I4Y1lES05fYl82RFFiS1BoVVJRT0xONjd3MFYtSnZjUlBmVmRYeXE5ZjgyOGc?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "04cdbf12a4a1",
   "u": "mo_rajnagar",
   "sev": 2,
