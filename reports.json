@@ -11,6 +11,116 @@
   "status": "approved"
  },
  {
+  "id": "7c100472b49c",
+  "u": "su_chhatak",
+  "sev": 2,
+  "cat": "Smuggling",
+  "d": "2026-11-08",
+  "t": "Smuggling reported in Chhatak",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xYkUyNlI3a1RTZmtKY3k2Q2oxbzlCOXVQdUI1eEZHZGlCTHJCdzMwU3BlZXdQTW52OERkRmxreERNb2dkOWdsSlgtbmVWU19wNU85Nw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4906bc5c9388",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Jamalganj",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83WV8xT3BFQmxIbXdKZl9XRy1ZTkgyQUF0aUxBd3c0cXNUNHB4SnlpSVRraURWNUhRRW9jeTFrSTU1MENhaEI0T09rQjVOazdPWXR1VWJFTnZBcHM?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "eee17f45d089",
+  "u": "su_jamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Jamalganj",
+  "src": "Daily Sunamkantha",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE90dGRRN1gzeFRrRDZVUkRSZUVHMlhoMXpCWTVoZGhWcndEdGF2a3VrLXhlaFJLLWVBNlV3bXVydWMwTE0?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "cc6bcd9d3b25",
+  "u": "su_jagannathpur",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-08",
+  "t": "Murder reported in Jagannathpur",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNWw3blc5YlBVRkhyMUlzOW5UQUJLRUlHQWRVNXFsa3ZsaUNjSlg2Z04yLUljUUsyNFNqUC1mVGtXamY1NjYtdGdwOGpsdGpGdEww?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1aadf6b9a2a1",
+  "u": "su_jagannathpur",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-08",
+  "t": "Murder reported in Jagannathpur",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaVlfSko5ZjVKaFpOQVZqOE41ZlRHNHdTRW9lV19QbDVkWG5vNDdYYkRyS3dsNDlFb3lKRmJpV2NuSXlZUGZpR3VUN0VOdXM0Zmc?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ff1451b1c422",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Nabiganj",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uZE42c0IzYjd3blFXMzVpZ0dleHNjVV9zSl9mZVFBdjBhalNMMmRXZmxiZDlZalA1MDlGeS04QW0xcHZiZ3B0eFVyOFZzRXNFS201VQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4684be09e4f0",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Dhaka Today",
+  "l": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQYmoydUhwY25mUkRJNVhGcE9aWE1iYTZBNlVvVVVHOTFST2cxaEwwOFdYdUpsYmtKVGxTN1otelpUUEZUSnh0b1RseHBUbFlsbjlTbnVscGx5bUlSeG8zYnN4LUVFWDBVZVhDVWIxR3BCeHFuRGpKYjdRVHBPQjhyQXJEb2RLeF9FRlpJZW5BVWV6X1Rib0VLdEQ4WEd1Z3hiQmpjTjVzSG95eE1wYXhMNnFzcDlJSUhwSHdXWFhTaTV0UUlCUmJoS0ZZSHVuNHVSSVJrNkRfQ0NRSVRYMGl2NFVLa1l2RkpBMmxLaTlrUnlOcjRJam5yWHc2eElRUnVKaDdSb3pYVVkwX2FPaFkya2tjdlZ6Q0tfU2VuWUlxVWZSVkdrcjlYN2dvbFZvbGNnZGZxV1BacnlHT0ppZnJYaUU3Um9Wa2gycmZqc2ZrVk9GN1VrUV9xYk5FVXdQU0x0R1NFY21hNmphWVRWcWlPQXBwOVl1dk5KLWFMaUJRamh0TUt6bThla0N0QUVCUDdwVTBuY3h2TDZiU1hUWWJtMU50VHA5c1BNa1hqX3NlT0w0SmNhcXg2eHNEdkdzMXFCQ0oxVjZFbDJzMnUzdHM1TWFEMHBjRHpHVzVTUG1memdmRzFiZ1FYbzNTdzN3dw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "d0dc9b9d8816",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Shironam",
+  "l": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnJxcC1jWThkdGpfa1AtdjJ4dlRRWldjRTJBeEVnS2Q4aFFieDIwbG93NWtRYk1iMUdqLS0wYktfakRTZE5vWHEzb0IxTFFuQ21jSjEtbmlUTk9oYnNvd3hkWTE3M0hXSDJmOGVfdGxoSHMyY1AxUG5zejhPb21GdjlIRXV6bUZQSTg2emNWVUN4Wm40OWNmUA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "fc2092d4e21b",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-08",
+  "t": "Drugs reported in Chunarughat",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92WWxLWTNSUU82Qjl2bFlBbDM0dXcxblVoY183X3pVWnk5aGFpd3lDR3pBdVV2ZlFWcFZ5UVY4WEhiNXpkcVdoNFFTUGFUT0RPM3c?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f0d7b2516a5b",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-08",
+  "t": "Assault reported in Kulaura",
+  "src": "Jagonews24",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Z29weExWZHhzVXlBYkVmaUVVSml5YVItU1gtZ0pQdnVpMVEzREF1eXhBS1BmZkVpTFZKNVc2NEc5cFVHUWdGUkNlMGhwNWwzN0lTbW9aR2pSeDg?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "04cdbf12a4a1",
   "u": "mo_rajnagar",
   "sev": 2,
