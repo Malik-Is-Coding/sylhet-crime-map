@@ -55,6 +55,83 @@
   "status": "approved"
  },
  {
+  "id": "cf7f05e64867",
+  "u": "jaintiapur",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-09",
+  "t": "Robbery reported in Jaintiapur",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yN3ZqS3hmY2ZkRXlVaW4zd0FqbWpGQk9VV1d1SnFpQVJsMnA1T0tFdmhYZk5hTTlRTWRzZERsdUNFNXY1Rlp1b25nYWpxVkhfMU00?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ff5c021c1f7c",
+  "u": "jaintiapur",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-09",
+  "t": "Robbery reported in Jaintiapur",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14aWRUSmlnR3dvOGxESWZRYlJwNi1tekoxY3dOeFRzaVVjbWcxYmxYd1A2U0RGU1ZQNndSSmdzTUxFNTFjeWRuN3pLcEhzSG14bUo1dQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "bdedfd281e81",
+  "u": "jaintiapur",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-09",
+  "t": "Robbery reported in Jaintiapur",
+  "src": "Ajker Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzNHZaRXN5UGhQX1k0dzYxRzVITnUwRVlWV1dGU0M5YXRpU09UNFJqb2RTX2p6aEJycU9ScTZZQmJoSFdRNmRTX3RiRzkyczFzYUN5SzYteTdzc0J4bGo4SWRla2ViVlpPOV90MXU4Q3otUzg?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "697bf8018592",
+  "u": "su_sullah",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-09",
+  "t": "Murder reported in Sullah",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RZHV0ZFpqQVNVYWtFTldIRFcyWldQdElYWGQwNVF3b0tTVEJJMmE4UHJJNHhGMzV5bTRRZEx1bVB6NWpEOXVFX3JkNkZ6aVJDSXpr?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "57c0d6e85fb1",
+  "u": "su_chhatak",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-09",
+  "t": "Murder reported in Chhatak",
+  "src": "অনাবিল সংবাদ",
+  "l": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5PdlV3d2trUWRkd3MtYUF5WWhmMXhXVDlKY1VJdEx3OW45ZUtoMldHLTd2bXVSRjY5ZHh1Q2NxR08?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ee0178c840d7",
+  "u": "ha_baniachong",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-09",
+  "t": "Assault reported in Baniachong",
+  "src": "Bangla Edition",
+  "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLN3BSbXBBSXljLUFtaXpxZmhUM1R2VjRzeTdMUVctZEY0Uk95VWVjSzFKSUJzSVVLbm40YmV1UVBPQzFSU0JRMnFtYlQ4UXZUM21NaldYZkFJRDhZSlF5S0lydmpPUQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "63a4a526cedd",
+  "u": "mo_kamalganj",
+  "sev": 1,
+  "cat": "Theft",
+  "d": "2026-11-09",
+  "t": "Theft reported in Kamalganj",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Jc25YVzRhcmMwR01zYjhYUnRmbFR6WHYwZkk0ZS1nZzlEdGhzSnItcUZiNXlDWGd0blc4aFh4TG1MSW1FVXotZUd6UG5KOHpOMEE?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "2488ef16622a",
   "u": "ha_nabiganj",
   "sev": 2,
@@ -635,6 +712,17 @@
   "t": "Arson reported in Madhabpur",
   "src": "Talash BD",
   "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUmg0MGdDelgwcnU5NmdXQTlpQlk5OGRGTzA4R1gwTnQ5SnVWSWF2QXdXc21aV1gzUDBYaUtLc05Xd0NfNXctNWpDU0dQQzhielhkQw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "bb4e9843eb22",
+  "u": "mo_rajnagar",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-06",
+  "t": "Robbery reported in Rajnagar",
+  "src": "দেশ রূপান্তর",
+  "l": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPdGRwV3ZiS1VqQ0x3U0dZTkk4NV9BOTF0T2g0M3pUcl9BUmJQNm04RDUyNFN6TnFrZGl6eVJNUVRkbmdWeWdFRXVMZktsUi1rU3U0WExpX2k4aXByQ3FyUnMyYmMxREIzS3BZUmZzQkZSQnJrR1pfWVZ0aDhZVkhvRHgyNWZRZFhLUTNHaEltb0s3QjZ4NF8xSV9DZV9XNzVlVzRKNDJVU1JSWHQtcEdMYkRYUG82eTcwTGZoODZGNXcwTVY2N25WZzZYSDREODRVMVJUdjBqcEdrMUxSWEFMc2w5Qkl6aEY3Y25xckRKcC1sR1FCTERCN1FyN25BU1Z6cUtEY1dXSVpOblBqcUhQRHJXSU1tMGxUWS1kV0xWZ0NGUjZad2tTaE55VjdyUi1Xd0RwdE5WYWdDaG5vVHZJY1kwSVU3YkowNE5jcHg1bGhYa1dudkpFeDFkbWhYTEoydGNHVmZ4VGxFcEd6Q2l4VDRGTjB3c2c1WTRINHhVem8taE1WVFA2WHE4Z0ZUaTJUdGxQUEswS2RxSVczX1lUdE91WXBvaE5UNXVxM2tn0gGzA0FVX3lxTE9WajNURjJiYkI4S1hhcEVZS0FwWW8zM0NKYmJBRFlkZ09WbGZ4b3k1OTlVWHM5SjdOVW1FNEdmd1R6MVFETXBrcjFtb3NXZy1ENjVTVXBaaXYzOXJqdUhlb0hCYXJWRlFzb2I2RXM5dzdaNjByTmlkWmZ6dlc2QkFpZE5nbEpkLUZncUZuMXJFQllDenZNMkRwckNpX2YtYTRkelMtZy1OaFRQZGdNMlp1QmxGQUFEZThuTVVfNWxhNXBQWDJtTDRCRldENGNyR0dCU3dadjJFeWZ4d1FMWmhKY3Y3NEVlSjFXUWJUU2d6Z195WXFTdm03RlBfQTBkdE5fQ1lFUmFZR2RUWXowTHkxYzFVRlJLQUFXNzhpMWplTlJoc2lFZ0Jyd3plQ3c2aFFDcVh5M085WnctYWhERlYyaU1UaDJyUkVqQ25zWmpUOFBnVUZzZGtxYUQwQTRWREE2enI1UEh6cU10RjZTVFhEYUxmd0ZzTlhyYzdBNWNib2owRUxUNDZrOXB1MF9zYi15Q0RLdEhPWWlEMTR0S3lEbmtGS1RWNXN3U0JfSzAwZkctaw?oc=5",
   "status": "approved"
  },
  {
