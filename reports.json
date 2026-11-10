@@ -1,5 +1,49 @@
 [
  {
+  "id": "7c2a87856e21",
+  "u": "jaintiapur",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-10",
+  "t": "Murder reported in Jaintiapur",
+  "src": "দৈনিক এদিন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JbFplVlJURjQ2TG9GeGJWYmtmc3dpTmNSWTlhNkJVNlFReGdCVVBmZ0dnejF2Q1NBZGx3UjdaT1BXQmdLeTQ2TVBpZw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0d625b070014",
+  "u": "su_chhatak",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-10",
+  "t": "Murder reported in Chhatak",
+  "src": "অনাবিল সংবাদ",
+  "l": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SY0ZGUDJnNkFZMU1iU2FmVENwWlZ2WXM1ckZ6U1VmdmU0aTFIQThndGo5ZTI5b0d6TXRBMlpUU2w?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "55c4d272d2b9",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-10",
+  "t": "Assault reported in Sreemangal",
+  "src": "Sylhet Today 24",
+  "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wOVlNSXExQTdxS0hyWm5aNUMzOF8yX0N3VXZXSU1WM3ctanQ5Zk1RRUFNTU8zR1RnWnZTRENOeE1SaTdpVE9NZHRBMVVjVVFCWmdOc1duNmRaNHd2TDJpM291dHh5TnZZ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "53f56a33d3c5",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-10",
+  "t": "Assault reported in Sreemangal",
+  "src": "খোলা কাগজ অনলাইন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aLWZxT2xQOVJWWl9yTFBZUmljOVFZOTduTGduOVZaamEtczVwSFBoYXhGWG0tUXBJX3o0SUZOUXFWUWNqSXJBZUZGNA?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "e523525d8c3f",
   "u": "jaintiapur",
   "sev": 2,
