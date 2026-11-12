@@ -11,6 +11,105 @@
   "status": "approved"
  },
  {
+  "id": "6b20fd275d62",
+  "u": "beanibazar",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-12",
+  "t": "Murder reported in Beanibazar",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwUzhQQmw3S0l4ZlI1RUtYX3BWOXZJTnIwalM4dWlNNXFQa2UzUDJkQVkwRDlldkpHWkh3eTNuV0tudG9ZbmpOZjVlRFM0SVExOGREVw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "662c7fca5e87",
+  "u": "beanibazar",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-12",
+  "t": "Murder reported in Beanibazar",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85QUR2amczT09CS191WFJyazY2bTNBZ1ZzeU4zUXI3djRFN19nR2RNZUJuYXdSZ2hPVmc5X3F3eFdyUWFoT0s3a1lGajdHVDZpbmZj?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "21d618bfd912",
+  "u": "golapganj",
+  "sev": 4,
+  "cat": "Kidnapping",
+  "d": "2026-11-12",
+  "t": "Kidnapping reported in Golapganj",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZU2hyX0Z1X05sSFdURjZ1Znl3NmFlSEJhSXRYWHBoS2paNnNUQnBBYkVHemNQdTFKU21zd0p6VjBHNkFoSGY4anhHc2tvNHY0OVE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "587ab407da1a",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-12",
+  "t": "Assault reported in Nabiganj",
+  "src": "Banglar Alo News",
+  "l": "https://news.google.com/rss/articles/CBMilglBVV95cUxOdWxkTUo0ajVkOThxVVNTMEhCV0tBRnN4V0t1OUx6ZXhZaHdtOGtSMmM1R2FkU09ZbFhDMFVLaVB5NFRNdTluT1NPN3BlZ0NtR1phXzdtdWlsMEtSQ2RDS2tDcUQwM1poQUVhSjdKUkM2RWNhYUdERDRGRkY5Q25GWUpYbS1fRlhsUWZjbi1Gc1MwcVhKbndoWFlPZzdDWkY0dUtfQXdFSXMzb19wWVRzbzVHTTZ4NGdWUlotRmZ2aVRXVDc2VFFuc0l1bWJOMjZ0SS1rZTY1TkpYcDM0QU16c0d6eGVMNkhzSmdfRWM3bVJiN21ZLWdJQVJjemR6dHBjUkRkVXBUOF90Y0lldkZkbHlNVERCRC1IWm5PQlpDcTRUa0NJWVZOb0VSV2pqbmRHenhzYktpUkJyZkNZc2c1NXhxeU9lWTRWMUlwYU1OSU41NzRVdDBoVnJObTUzOUlaRFV2NGdsWmVBUXFTcDRqblVyRkd2YnJHM0hmS3lKVXlZSWo5cnM3amdFeFlpYlhkYndJQmJnaGtwNlhVd1l1T3pZZGt2QVRzSFdOZzBDU1NXVjRxclRPcGRDeklaYlBFTml4N05oVXNIT1FGaVZIR3ZRMmdMdHBOZEZleTB1Z01OaVdoTVVNZ2dJbnJ2eHVJUVBWVFd5Z0Z2MnpXTmVKdm5GSUdsTWphMHJ3ekUySW4xRlFiRC12Smk3MDQwbG54cm96bmV1aVJBcUdwQjRvWlR5X3J0d3RaOUNJbEVCZEhRM1B6VUloS1FQcjN1cG5yTERjMHkzQVMxdTAwVlB3MFNnRFRVdlY4aDZZdmpldHJyWGMxYnVMaURKRkFQYkp5X0huQmQzbmUxUENsd0trWFRWdXh0d29CR0lNMnQzN2s3R0luTFdydnNDWkd3NEpDRWY1VEdYVWl6eTRLNkJqM3F5dkVBLUZGYmI3SzBQS19ibTRHUUFzRE1ITWQzWDNUUW8yckp1MFl2TGtIdUhPRVRGWXJfYVV5VHhPeUJHelMtLVZQTW5fRmQ4MVowUHBwUEZJZE9samJSUC03eFhrUC1zRTd0WFRUaXRXVV9QOENWd3FYMERocGNuV1pGVXhvY1ZvTk5OSmtTMVd1NkJZcEhxN0NESjMzTnl6bGI2NGd1MHNoZlpsT0ZFYVF4Z0Y5dHNoQmdyckpCX1lqNnlVcVhaNDRmbGNiNndicVo5ZXVyMDh0MGJRekpSQUhMckgzaUxDZk1lWkhBUlJ0eXFaSDY2Mk1QVVY5bGNkX0xfZWV0SFBzcGlwOENnSGluZ0pUMW5BSmEzMDNTVHV0NVJmaXFVSWI4YjVJS1p6N1dWT1JjQmUwcm9BN25OT3Z0b05wVVZCU0RORDJYX1AtSnJ6dThxRkxRcnR0S1RBTUpiMWFPS1pBSnRQOUFtZXlsalJEQUw5S19jN1g5dlVXeDE0ZnVWZTNIaUR1SmtmUFV6djJKVHZ2aDlkWXhwRHRBbnJMSjhvTGtaeHBEZkFMVkxQQm1vT3dKd0dDMjUwcTUzZWppcF9tUVFfNHo2ZGppNVdoZmt4bWtR?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7d5f1abb6276",
+  "u": "mo_barlekha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Barlekha",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HV0pWLVF1Z2p1eGhpWE80X21fR2xLTUNRQVVYTHdoQ0ZlMWxXdE9QUTJyWE9jY01RWmRHMnlwUUVEZXpFZGt5RUlheFN4R2RxNV9N?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "595f97ee7d5e",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Kamalganj",
+  "src": "Patakurir Desh",
+  "l": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sLTg2OHk2U2xaOFFoMXhTRGpyX3ItMkFhZDE4YjVfSURPWWdTRXhHQzU1R29YWFlrbEMwVnEyYWVnWkh5VVVj?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "e3ff2d0834d3",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Kamalganj",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wOUJfNUFvaHpXM1RTUTBRVUxEZl9kU1hGd0RVMnVQcWFkVVR1aEVyZkY1ZTVMYUVVVG9NdHM1UjlaMnRqbFJOb2xpb252RkU5OUlPaw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0dbda8d9ecca",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Kamalganj",
+  "src": "Rupali Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZE9GOUF5c2xxYVBZY3hvc0JMMHFieEMwY0hpeGRyVXdjb0EwSVUwQ1AtOUdPWll4RjMxaHFQUGdEMWdZY3hSU05ROXJBVUF6a3BGcUdXVkFEd3dYaXZxd2Z6bVREempJUUV6TUd3VDE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b030350416be",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Kamalganj",
+  "src": "EyeNews.news",
+  "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcDlBMW5RZUE5YXZCNzRQWVEwdUFKd0VTNzZVUVE4T1oxdWpuaXNxSmFJanh4VTZSSFJnOWE1UVZjano2cHM0Q25RdEZ4aEs3TW10dkRDbWR0amZXcmc?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "51e396570cfa",
   "u": "mo_sreemangal",
   "sev": 2,
