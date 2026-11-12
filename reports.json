@@ -1,5 +1,16 @@
 [
  {
+  "id": "ed659eff10e7",
+  "u": "mo_juri",
+  "sev": 4,
+  "cat": "Kidnapping",
+  "d": "2026-11-12",
+  "t": "Kidnapping reported in Juri",
+  "src": "প্রতিদিনের কাগজ",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBc0xCS0QzUURlYU9KSGdYaVBUdVI4SndPRlN4aFE2U3pBb19SMVVWcVdTZllEMlNDYmFOLVlZSXhhcTRmRkU1TVNB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "51e396570cfa",
   "u": "mo_sreemangal",
   "sev": 2,
@@ -129,6 +140,28 @@
   "t": "Kidnapping reported in Juri",
   "src": "Daily Jalalabad",
   "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxQXU0ckh2VDk4NENDM1VKUHByUzRwY2VKSFBKR0c4Vm1TaHFkcEpDeEJBdU9ENHk5UVVOM09Gbk5FUm1FUU4xQTkyR1NxTGxuTm0yUg?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1ab0f23ab974",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-11",
+  "t": "Assault reported in Madhabpur",
+  "src": "এখন টিভি",
+  "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CM0lKbHRFNnpPZ3Bwa1Q4Q1RDaVZJV1paQVVYd0FMdVNKZnltYVl1a0NzSmlhNENIV1RMaGpSVTQxZTU2R2dOa0RvOE9XU3VBMDRIc2RnV1J1T1FrU2c?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "d3554863dfdb",
+  "u": "mo_juri",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-11",
+  "t": "Murder reported in Juri",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxVXVYUXR2NWtveDRxaDhJb3poX0M3R1oxUG1SOHlFTjVFNUZxcjA3Z1hfNWp0N0lZZTlVX2xYemxTOHlyanh1dThyYlBrMGRCUWhKeQ?oc=5",
   "status": "approved"
  },
  {
