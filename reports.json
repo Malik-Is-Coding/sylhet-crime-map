@@ -110,6 +110,17 @@
   "status": "approved"
  },
  {
+  "id": "b348064ab47d",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Kamalganj",
+  "src": "BD Bulletin",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4bWlyZ3ZFZWZxRTJNZ245R0M0djh2NkxiQXN0d2YyRXp0VlR0ZWRxMzUyWWUzTXJaM1NPcVJ0ejBSbHlndy1kLW9VTm1vSHhiWDdn?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "51e396570cfa",
   "u": "mo_sreemangal",
   "sev": 2,
