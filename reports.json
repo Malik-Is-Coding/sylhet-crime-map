@@ -374,6 +374,17 @@
   "status": "approved"
  },
  {
+  "id": "36252757bead",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-10",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Risingbd.com",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sbUU2ZFc5eV9ETkVhOXIwYkZHWWpuUmtwbzlEYUNNaW1lYlRVUHk3Zm9tWC1PdHkwMUNOWk53R0FsSzRLVnZqbmtoR3hjdTNvN0HSAVJBVV95cUxPbG1FNmRXOXlfRE5FYTlyMGJGR1lqblJrcG85RGFDTWltZWJUVVB5N2ZvbVgtT3R5MDFDTlpOd0dBbEs0S1Z2am5raEd4Y3UzbzdB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "e523525d8c3f",
   "u": "jaintiapur",
   "sev": 2,
