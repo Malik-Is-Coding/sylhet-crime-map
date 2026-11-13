@@ -44,6 +44,28 @@
   "status": "approved"
  },
  {
+  "id": "bc1c6ee24f49",
+  "u": "bishwanath",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-13",
+  "t": "Murder reported in Bishwanath",
+  "src": "Newszonebd",
+  "l": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNaUllUjVVZ3gtQTZ1LW91TTFXb1YyeGVoMUg2TjdqNmZxY1dHWWlNckNaMVR3RjBmRkdtQWJ0TXpESTFEX1YzRXpyOWZueHQ3VDZVUzUzbEY1MWtyWGhfUzdWdTgyWHU3X0ZQZm1pdVNMdm9LSFZ3TVgxcTVQQlBkcTItNkhLNGdmN2JlU3plUVNsNXVSU3FBZ0d4cnB0ejU3U0s1X3B0S1NmdmdpNzlQWTJxZ3QwcXVlWElOcTZaYlVXYmIyQ3lIOW9TeTNoeFZpVDBCR3l6RkVKb18wUmNHTkhEWEdGT08tVjhGck9xOXlKNUhZbEViQldBYjRLdldlbjJkVTducXZhaDhKbnAyNWM5RHhEYVNRclBzMEszeUVTTTZ4RnBnNVVFcDdOOGZsS2dqa01KWlhfdEZGUjhvLUJ1SFFCWVM5UXgzSXdmT3paUTMzSlpWMW5NamliVExhNjY1YzVRZGt1c1p2VEtfc0E4NEg4UHA4VFZoWnNqdDluSWk2MGliRzJvT2t0N1ZyYU90UGppa1cwTERiUnNaRWoxdDhWVHNRYXJJZmN5WG1CcWhrcHU1aFUycGZzWUY0UGpYZ3dVdjA0NFEyM0Z5dGllVUdMWV9Yb3otMjJhemYxUdIB4gNBVV95cUxNaUllUjVVZ3gtQTZ1LW91TTFXb1YyeGVoMUg2TjdqNmZxY1dHWWlNckNaMVR3RjBmRkdtQWJ0TXpESTFEX1YzRXpyOWZueHQ3VDZVUzUzbEY1MWtyWGhfUzdWdTgyWHU3X0ZQZm1pdVNMdm9LSFZ3TVgxcTVQQlBkcTItNkhLNGdmN2JlU3plUVNsNXVSU3FBZ0d4cnB0ejU3U0s1X3B0S1NmdmdpNzlQWTJxZ3QwcXVlWElOcTZaYlVXYmIyQ3lIOW9TeTNoeFZpVDBCR3l6RkVKb18wUmNHTkhEWEdGT08tVjhGck9xOXlKNUhZbEViQldBYjRLdldlbjJkVTducXZhaDhKbnAyNWM5RHhEYVNRclBzMEszeUVTTTZ4RnBnNVVFcDdOOGZsS2dqa01KWlhfdEZGUjhvLUJ1SFFCWVM5UXgzSXdmT3paUTMzSlpWMW5NamliVExhNjY1YzVRZGt1c1p2VEtfc0E4NEg4UHA4VFZoWnNqdDluSWk2MGliRzJvT2t0N1ZyYU90UGppa1cwTERiUnNaRWoxdDhWVHNRYXJJZmN5WG1CcWhrcHU1aFUycGZzWUY0UGpYZ3dVdjA0NFEyM0Z5dGllVUdMWV9Yb3otMjJhemYxUQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "40878e8845a2",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-13",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Dhaka Mail",
+  "l": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSWEc5b0xDNlU1eXA4cUM5Qmk2MTJzVHRuM0UyQnNDY2RCVDhoMEJHVi12UDV4YzlYMklVM2NvWnNpNzhzU2Z4RVdudWnSAVJBVV95cUxQLWlEeVNMTHFLcUZMVFdZa0lhSkozOTRLY3Mxc2xfaVkzcDFmRHJCQVI2NlFOTjc0ZG55VkExSVRTMDR0NFlmUnc2SFdPaTRrM3R3?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "ed659eff10e7",
   "u": "mo_juri",
   "sev": 4,
@@ -162,6 +184,17 @@
   "t": "Drugs reported in Kamalganj",
   "src": "BD Bulletin",
   "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4bWlyZ3ZFZWZxRTJNZ245R0M0djh2NkxiQXN0d2YyRXp0VlR0ZWRxMzUyWWUzTXJaM1NPcVJ0ejBSbHlndy1kLW9VTm1vSHhiWDdn?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f4c8fa8fa2ea",
+  "u": "mo_kamalganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Kamalganj",
+  "src": "Durniti Talash News Tv",
+  "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFSFBLdXBQR3lXdlVpSmxTSy0tcEZOa1M3NnUtRGVRM054dlBPYVpESnJnWVpZOFhSV1pBSW1ocWhsQkhEblBlY0ZvX2ppWnBNUUZQQzdTdEg?oc=5",
   "status": "approved"
  },
  {
@@ -371,6 +404,28 @@
   "t": "Assault reported in Madhabpur",
   "src": "Bangla Edition",
   "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NZ3pRYXhJVW1YRFUxdzBDbHE5MjlkdXdWTEIwSGJDU0JwSjBmWDVXUWU2U1ZFa1RCVGZMYldvWk5uOUNpSjIyUnBJQWZfTWVQSVJsQThFSFpqNHVVMHQ2VjV4cEpZdw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "d9e548e43728",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-11",
+  "t": "Assault reported in Sreemangal",
+  "src": "AmaderShomoy.com",
+  "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iSnNHaUl2SEQ4cXhENFZjbzhzVXhBYW5RMzZ3aEdRQXhTQUpKSzRGOFZvR0RRTC1LUTJHbWtJV2RFZlJYQ2tlSDZ6RW9hUk1LSWFRWmxab0EydWVZb1hCeQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "51e6f3cb2b46",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-11",
+  "t": "Assault reported in Sreemangal",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yc1BxbXRVb3BVM1kyWEYxUTBnRFZaVTZ3RnhRZFdwN180aGZmNzBEQ0NaTHdYNmlpY0VzemM4QmtfNWFXam5EbnpEd29EeW4zV0E?oc=5",
   "status": "approved"
  },
  {
