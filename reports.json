@@ -275,6 +275,28 @@
   "status": "approved"
  },
  {
+  "id": "d0a9bc48aa11",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-11",
+  "t": "Assault reported in Madhabpur",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIUjV1NEdfa3RBWjlud2RMVEcyY0VtdlBrR2JNU2gzeUhFczZoMHloblY2OVZMWHlWSXdnMmlJdnREeUl5ekFubEtZTUhQM2x4WDN3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "e06bf7e90aad",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-11",
+  "t": "Assault reported in Sreemangal",
+  "src": "Ntvbd",
+  "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wcDFxZVBWdlNFeThmOVFkT0hZc3JZOXJxRmJsU29HczlXUU5pYmdkcHIxQmpXSEJJRHluZWkxMzVwdXk1aGVxT2pMbl9xUmljdGVrRmptemF3M21YUFE?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "7c2a87856e21",
   "u": "jaintiapur",
   "sev": 4,
