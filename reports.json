@@ -66,6 +66,17 @@
   "status": "approved"
  },
  {
+  "id": "c5a879064cbd",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-13",
+  "t": "Drugs reported in Madhabpur",
+  "src": "দেশ রূপান্তর",
+  "l": "https://news.google.com/rss/articles/CBMizANBVV95cUxNLUdTanR5QkNVWXhfUmozSlg2X1VUZnQ2dFJ6LTdYQ3I5NHFURkQwMXYtRjhtVEZrOFVzUE1valBpMjdEWXJ2eWRuUGZUWlhLV0hIMnFqQVFXaVpKMTBGOTVPMkJVYU1pUThVd3NESnlra1FQdWVWdjdfYk1UR3M0eEJKOTU1VkVNQlJScmpLREEtRjRQdFYyLTNkX0hYSldrejI5Z051R3pmQzB0MlJ6OXdWTWE3b2N4TC1CRV8wTjEtR1VldVU4dDlaS213c1ZsX2c3TVZkVFY5Z1pYaVNqcGxsM3phdy1nelVzTVZ0cnJ0QVMyWXRjSjhsdVljMmZRTk9OdTg5T0FXcHQ2MzhscWxLY2pnTjNhTWVfZEtNLTk0NnNGdVJ5UktvSWFlQmxyOGxzVENnYVhxMEgxQUczWFZWbnNBYTlXQllYMmV6WTRyaExPMGtJZnljSDF0LXBxaWxDMDljWHE2bUl0UUN4YkJ6NTJHTno5T1hwcjNsSnJZNzVjX19hQ1J0NnF5S3k3dkxqajllbklUUV9tWU1NdTYtU2RNUDItM0FxVmVUZ0tOM1dRYUhRTUdxcDZudWVScWtnZ0lIZFpBSGNw0gHMA0FVX3lxTE0tR1NqdHlCQ1VZeF9SajNKWDZfVVRmdDZ0UnotN1hDcjk0cVRGRDAxdi1GOG1URms4VXNQTW9qUGkyN0RZcnZ5ZG5QZlRaWEtXSEgycWpBUVdpWkoxMEY5NU8yQlVhTWlROFV3c0RKeWtrUVB1ZVZ2N19iTVRHczR4Qko5NTVWRU1CUlJyaktEQS1GNFB0VjItM2RfSFhKV2t6MjlnTnVHemZDMHQyUno5d1ZNYTdvY3hMLUJFXzBOMS1HVWV1VTh0OVpLbXdzVmxfZzdNVmRUVjlnWlhpU2pwbGwzemF3LWd6VXNNVnRycnRBUzJZdGNKOGx1WWMyZlFOT051ODlPQVdwdDYzOGxxbEtjamdOM2FNZV9kS00tOTQ2c0Z1UnlSS29JYWVCbHI4bHNUQ2dhWHEwSDFBRzNYVlZuc0FhOVdCWVgyZXpZNHJoTE8wa0lmeWNIMXQtcHFpbEMwOWNYcTZtSXRRQ3hiQno1MkdOejlPWHByM2xKclk3NWNfX2FDUnQ2cXlLeTd2TGpqOWVuSVRRX21ZTU11Ni1TZE1QMi0zQXFWZVRnS04zV1FhSFFNR3FwNm51ZVJxa2dnSUhkWkFIY3A?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "ed659eff10e7",
   "u": "mo_juri",
   "sev": 4,
@@ -426,6 +437,28 @@
   "t": "Assault reported in Sreemangal",
   "src": "সিলেট ভয়েস",
   "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yc1BxbXRVb3BVM1kyWEYxUTBnRFZaVTZ3RnhRZFdwN180aGZmNzBEQ0NaTHdYNmlpY0VzemM4QmtfNWFXam5EbnpEd29EeW4zV0E?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b334f7740762",
+  "u": "mo_juri",
+  "sev": 4,
+  "cat": "Kidnapping",
+  "d": "2026-11-11",
+  "t": "Kidnapping reported in Juri",
+  "src": "Ekushey Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lUzItNmNWbWpTQ3BGdkNKY3VnUkQ5UGF1alJYeHRITDdwUjQ1NFM2RzBMeTZlSUtBSzA5RzR2LVFQal9BcFZqdlJwUDRBUEdsc1h4R1JENjRBMXlpR25R?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ea2d6a428052",
+  "u": "mo_juri",
+  "sev": 4,
+  "cat": "Kidnapping",
+  "d": "2026-11-11",
+  "t": "Kidnapping reported in Juri",
+  "src": "BanglaScoop",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE02dUlZZTVyYjUyRGxqbm1QSW9ESjVpRlZGUGlCbTRjVy1lSXVVRzRwSXhEV0tiYnJROWR3YkpHRnpEdU0?oc=5",
   "status": "approved"
  },
  {
