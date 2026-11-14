@@ -77,6 +77,28 @@
   "status": "approved"
  },
  {
+  "id": "3fb481da1fc4",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-13",
+  "t": "Assault reported in Nabiganj",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OUUtwbzRtbnRCV3RNY2tRNHJDeXRTTTRHeFFmNnd5SUJpY3h0a3lXelpjbWlXSHRTMFRGSUtKWXRKdzE1Y2RQWElVejY5SzNjdzhB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "a3867a1802d6",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-13",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JVUliTlU3c01Wb1czRWhlMVViYWFKbXBLRHVzUTBsT0NSdnUxMTRSbXNFQmZHNnhjSFA2MUZ2T2ptc3VXX1lBb2QxLXVTc185MWJz?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "ed659eff10e7",
   "u": "mo_juri",
   "sev": 4,
@@ -459,6 +481,17 @@
   "t": "Kidnapping reported in Juri",
   "src": "BanglaScoop",
   "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE02dUlZZTVyYjUyRGxqbm1QSW9ESjVpRlZGUGlCbTRjVy1lSXVVRzRwSXhEV0tiYnJROWR3YkpHRnpEdU0?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "284c296b5c66",
+  "u": "mo_sreemangal",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-11",
+  "t": "Assault reported in Sreemangal",
+  "src": "Bangla Stream",
+  "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdThvZTdWMmhuYzFlRXRwR3BTNm16bGFRV01fSk1WejJQWjRTVnBkWkFsak9TcGNUa2JCYjlpbkhGWUtXSHJaVkw3VlhFXzQzTGZqdWlnanhTZw?oc=5",
   "status": "approved"
  },
  {
