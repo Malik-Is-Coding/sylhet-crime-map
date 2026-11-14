@@ -11,6 +11,50 @@
   "status": "approved"
  },
  {
+  "id": "44551e3961b4",
+  "u": "kanaighat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-14",
+  "t": "Drugs reported in Kanaighat",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tZHd4c3hiVTBJeFU0ZEl2NVkwcGFodzZXTW52bXRRanRlUGxpdnE1ZkF5alZvdHhzSGFzZWd1cERVWERSRE9UbXBaRDAwX0ZHYkNn?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "2d2ec232e3ff",
+  "u": "beanibazar",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-14",
+  "t": "Rape reported in Beanibazar",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kVmt0SVgyaGRwWTJlRGwwMzZLdWd1Z1hwdlZHeXZmRVhqSVc0b3J1Rm9CQUtWRERiQnYwdURBQklhcGlUNjJVQ2IzUktwSkJueGw0?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1f720c27c43d",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-14",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "প্রতিদিনের কাগজ",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YVXdFM1p6Wmx5SFFVYzRhZ0F4MzAzaUNUcVVhOGVVcDVneEpXSDdjUGJDeWlYS2FNQkVsaEJoNmJ5Mkt2Wkd5RjJ3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b70719e1d03d",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-14",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "ajkerdarpon.com",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sMDVYZzdNQnQzMW13ZnBSMVA4ck9JRlZLa3hwTHFNM0NOUV9teUZHdmR6Y1lqMDdra0xxYjJiV2lTaG1UUGlSTGJ3?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "a6484b37d7c6",
   "u": "jaintiapur",
   "sev": 2,
@@ -239,6 +283,17 @@
   "t": "Drugs reported in Kamalganj",
   "src": "Durniti Talash News Tv",
   "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFSFBLdXBQR3lXdlVpSmxTSy0tcEZOa1M3NnUtRGVRM054dlBPYVpESnJnWVpZOFhSV1pBSW1ocWhsQkhEblBlY0ZvX2ppWnBNUUZQQzdTdEg?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0205803e81bb",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-12",
+  "t": "Drugs reported in Juri",
+  "src": "Rupali Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aWEV1VDl6R1pjeDh6QVFCQWQ5VmtlRm5jWHFsUEU4ZFE1Y0xmbmtRcDVnVWxpcXpab2hkRHpMam9fbU84aDdZeUdkM2VPXzB3bkM3SmF6NzBydHdjTXBYUXNkelZjUktMTXhEVlVsbGU1UldUU0E?oc=5",
   "status": "approved"
  },
  {
