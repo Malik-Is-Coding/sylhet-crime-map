@@ -11,6 +11,72 @@
   "status": "approved"
  },
  {
+  "id": "1bac81c93996",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-15",
+  "t": "Assault reported in Nabiganj",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZE5OTHc3NUJkYkFTWHo1T29fcWFKLURhNVdmQUNnY0UybEZCbURaZWw0WXlOc2FTY3BVdER2dnkyRjFTcmljNDE3YjMzTGFkYktj?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "2b5683dca473",
+  "u": "ha_baniachong",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-15",
+  "t": "Robbery reported in Baniachong",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tYi1LYnVTZTVMLTRGaVg1TjItdXFmQkF6Mjh2aXBNRlBHaVVpNUNGV3FRaklCR2xBS25pUnRSSTRZTFdaT05MT2VGWFJxZ0g1M1hz?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "57413a4371d9",
+  "u": "dsurma",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-15",
+  "t": "Drugs reported in Dakshin Surma",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pWXdUa0lSSUFSaTFwSG5wWWJwa1NuY09ZalVXOWJJMmU1X2VaczBFUVpUY3hyYTRCcmM1dUhhLUdYUzdLQXNRUjRqNUdydE5iQklDaQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7955c3b415a6",
+  "u": "dsurma",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-15",
+  "t": "Drugs reported in Dakshin Surma",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYW9oVW1XNkJ3ODRZcl84Vlo5VnhlVmk5ZlJ1NndrUUxOcGxxN0drLVRrbU0tcllxTFZYd1ZLQ0ZnTXFBU0NTYVJRWElHRkFQZWRz?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "5bdad45569c4",
+  "u": "ha_baniachong",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-15",
+  "t": "Robbery reported in Baniachong",
+  "src": "Daily Bhorer Dak",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vbnpadkwzcU5JYXlfM1hnbnhxSlNEbVRJempzMjQ3T3M4VkJ0WVdQaUFqVUxldFU0TkN2dGpNaTd5Y3FVSjRFbEdaTTA4RFB2VUlSbA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b3d75882636c",
+  "u": "ha_baniachong",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-15",
+  "t": "Robbery reported in Baniachong",
+  "src": "বাংলাদেশ বুলেটিন",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZHRmMVNZMzE1NWVmU2pZekJXaWpjdXFLVHFxOGdGZVBpYWFhSzFlVE01VzFhb2JUSGJWd3dzblNTbkJQWW1qOGFra1NuQV9ERjkw?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "836b622ea7b4",
   "u": "su_shantiganj",
   "sev": 2,
