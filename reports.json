@@ -1,5 +1,16 @@
 [
  {
+  "id": "c43cce469415",
+  "u": "ha_baniachong",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-15",
+  "t": "Robbery reported in Baniachong",
+  "src": "এখন টিভি",
+  "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZTVoWi1ZQlVBeFJQamplQWpCRUtFd1Rwd1BhbWV3TkdVT0c3TVJXS3ZnNHh6MzRuanpyNExFVmNZRGdLUUxmNnlTVk5TM3FpV21LUXZSSnQ5ZmF4NXc?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "836b622ea7b4",
   "u": "su_shantiganj",
   "sev": 2,
@@ -52,6 +63,17 @@
   "t": "Drugs reported in Dharmapasha",
   "src": "ajkerdarpon.com",
   "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sMDVYZzdNQnQzMW13ZnBSMVA4ck9JRlZLa3hwTHFNM0NOUV9teUZHdmR6Y1lqMDdra0xxYjJiV2lTaG1UUGlSTGJ3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "05cbb0acc265",
+  "u": "mo_sreemangal",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-14",
+  "t": "Rape reported in Sreemangal",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mM0ExZmFGQzRJZ2ZnclhRMTY3bWxpUy14ejNTZlZMN2FBWnA2N3oyZFpHV0xlYlRLTjZKcnBKeHhjRFoxSUNEbjFNVlN3SFQ2VUE?oc=5",
   "status": "approved"
  },
  {
