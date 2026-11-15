@@ -77,6 +77,17 @@
   "status": "approved"
  },
  {
+  "id": "b446f6e4710e",
+  "u": "su_chhatak",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-15",
+  "t": "Murder reported in Chhatak",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zSFREZGFYSEM4UG9QOFhqY1ppa25vX1hXNnpENzNFb0V6UHYzOWRtTW1aX2praW51LXlCazA1VThLeWd4bDM2NUxQOFYwZC04eG5HSg?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "836b622ea7b4",
   "u": "su_shantiganj",
   "sev": 2,
