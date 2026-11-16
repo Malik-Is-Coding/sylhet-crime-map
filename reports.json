@@ -99,6 +99,39 @@
   "status": "approved"
  },
  {
+  "id": "892e4355ea7f",
+  "u": "companiganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-16",
+  "t": "Murder reported in Companiganj",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZzVRUWozYWVMSU1RLUdtOExKRlI5ekZvbmtVbHVFd2xiOUUtRURkelZnTlJVaDBVclpSbm9EeU95NXhudFFRbnZXZHB6YmxTWElR?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1ce0d971ac45",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-16",
+  "t": "Assault reported in Nabiganj",
+  "src": "সকালের সময়",
+  "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBra1hxRW9rd21sQlJIQWVqRkI2MUp3ajVtb3ZvdDZOeXRMd0FnLWZQLVZhTVVlbUhUTEluTGVMS0dka3FvU3ZsVUozQTVteW4xTC1jeFlzbDI?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "a400984187c3",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-16",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Channel 24",
+  "l": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQUnRNc3JPSHRBUHFVS0Z0NzVhVWZQVXBZNTNRX3NDMWdhSVJ5ckdvdllvUWhXazl5RnZxQ09GTWVrVnVfNTBsTjc2RHVSUWVHQVpyUnBON29vQ1NmSDRqSngyektZd05fMGF3UmVNLUkwU05sVHhCS21Ea3pSaFFmWUFiaDFSSWpVdUp3T3h6ZFpNQUJmNG4wUU9ScXVrWVkwczJqRU5tSHZIV01salNLNUg2aC1pUnIyTHQ2WEhuc2l2dHM0THJBclFSVzNKYzZ6TVJRQ0tZRXNXOXJnalJJcnZfR3QwNk1jRkFLb3ZNOVpjNUVGc1ZialBaNl83TnF1ZHFXdGMzQklDSlBoZlFFY2huLTRiU0JlS1VEUGh3dEtZc0dQamE2WEpCQ25yNHF6T0JPV0RsNG9vN3M2NDAyRUNNTFBqVXFhcHdYbnV4Y012Vl90V3pFam1YRkoxakRjVUM2QVJacVhEaHVyb1dwNU5vdC1zRXlkR2pBWlZsQWF4d2czZ05YVnRWWmNSUk5nQlBQOTg0eVA5b1N5Y1pWSnA5VVB6aFlNT09iSUxDcGRWUV9GR2t4ZXZmSzRZanRTQVdwUkktRkJRaXFQZjF6ZUVPY0hrdVZMeEdsVnctUk1DTE44Tnd1R3RYR1JSODNvbVd1ZUM5dkVhNzR0QWNabUUwajc0WDNfTkQxMDJ6RFRvdnF2UXJma3AyMnktdUFoMnhaUjhnMjVBT0gxakRNR1lKOUNhN3FpTzR2dkpzM1FHWWZRTzlJZkY4czFpSDBHZG5vNGVTaHFMVTBuTUtsYy05ZWpKMGZYeEJ5SlkxVzRKQlcyZGlZWjZxdkE4eEo5RDAzYzVrbENiYTNMTTlsSmhlWHRqaWNYQUhVcFpqNm0?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "c43cce469415",
   "u": "ha_baniachong",
   "sev": 2,
