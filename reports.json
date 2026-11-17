@@ -1,5 +1,27 @@
 [
  {
+  "id": "03b16232b392",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-17",
+  "t": "Assault reported in Madhabpur",
+  "src": "Shironam",
+  "l": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdktRVkRCZmdodmJKSEU1Q3RhcS1SRWVkNkNockF1ZUtvMkROWThNaVAyamdjMUJiSVVCQk96TlhtSm1tVl9UYkV4RUVpUnBlcGJHeVZpbTJiMGtYR2FSdEVUaWUycjRnMzF5SlVVMDdxY0VCNUZOTW9nZmhyeUI3blBNQTRxZkFldllfaA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "90f52c8f81c5",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-17",
+  "t": "Assault reported in Chunarughat",
+  "src": "The sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZZGVVMVZIZ2c5SWx4cm82YXhZanhZNWR5Y29FbGtRTVY3eUd0TDN2TzB1akZSYjhPb3paZU80cVZ6MUx6Znc?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "a2aadfd27eb5",
   "u": "su_dowarabazar",
   "sev": 2,
@@ -173,6 +195,17 @@
   "t": "Drugs reported in Madhabpur",
   "src": "Risingbd.com",
   "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZmhBZmQ5cUZRMEx4UGhvdUFZVkFCemZsUmV4bDVJdkVWZU1wamFKa0swS1MyMkpKT3RmYmtfaFdJVlpKUWlGVnVPRjhaZ0trcmRkOUNtY3k0dDQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1997dfe85382",
+  "u": "companiganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-16",
+  "t": "Murder reported in Companiganj",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aLW5tdjJGY3piV2lpQ0pJMWRwa1pGUEd1dk5BVEpyWkZhNDdMVnJMWVhEazlVaGJJRGo5NjJ1RUtKT1FweFhocExhZVQ1eFJtQ2c?oc=5",
   "status": "approved"
  },
  {
