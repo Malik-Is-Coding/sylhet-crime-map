@@ -66,6 +66,17 @@
   "status": "approved"
  },
  {
+  "id": "2db9dd6571b1",
+  "u": "ha_nabiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-17",
+  "t": "Assault reported in Nabiganj",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mc3BEeEthRC1Oc1B3Vy1VMFZoSHFFRTAyT1JzYUdIbU9qVkhDSVFMd0I0STV4cjRveVhUcHY1ampQcHQxNDAyOTJwRGNHNFZyM3Fn?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "a2aadfd27eb5",
   "u": "su_dowarabazar",
   "sev": 2,
@@ -250,6 +261,28 @@
   "t": "Murder reported in Companiganj",
   "src": "সিলেট ভয়েস",
   "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aLW5tdjJGY3piV2lpQ0pJMWRwa1pGUEd1dk5BVEpyWkZhNDdMVnJMWVhEazlVaGJJRGo5NjJ1RUtKT1FweFhocExhZVQ1eFJtQ2c?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "52660a9fffce",
+  "u": "golapganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-16",
+  "t": "Assault reported in Golapganj",
+  "src": "দৈনিক এদিন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5la0YzaWt0R01NZXBGdmdEZmR5VlpabGJ3dDBQTkNUVEVKTWdvWUN5TWY3TGdrVTczUlJORHNsX2pnMjhjVkhFSWNrdw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "83c3f2370f98",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-16",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PanNDS01lUVpYdmVqRHlpbHM2VEVGeWFVNmtaNDVMalhOTjFUWjY5X09TbUxUX19TVU00cnp1ZTIwZ3VtMXVFVDliQmlKR0N6T19N?oc=5",
   "status": "approved"
  },
  {
