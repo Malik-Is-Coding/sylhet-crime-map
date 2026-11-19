@@ -11,6 +11,50 @@
   "status": "approved"
  },
  {
+  "id": "cf13dfad86ec",
+  "u": "su_tahirpur",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-19",
+  "t": "Arson reported in Tahirpur",
+  "src": "Daily Naya Diganta",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByeHpLMHByYmdjbFlhcmtGQk1uOG5fQU82ei1VT3FsWGdGd2lvb0U2UlRTbC10cnVpb0RLZEluVGhLdkZUMmlFMlVuUzduUEVqTmpmYTVCMjJqNjg?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4b5a20854fce",
+  "u": "su_tahirpur",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-19",
+  "t": "Arson reported in Tahirpur",
+  "src": "Talash BD",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FMW04WURhTFdpUjU5TldKQVRjZldnTW9MdTlrYmtYalJoeG1UWGVsMENiX1U5Rk04NDNVdWVyZEl2bVdlNjZBTkh6djhFazhpazdJ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "da4d30af183a",
+  "u": "su_jagannathpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-19",
+  "t": "Assault reported in Jagannathpur",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuUEdXcFJOWXZpZF9Tdkkta0twZms5V20wNFU1R0V1SkVfNHB1NnByS0tzWmN4VU1UMWVaRWx2dm04RzlSc3NXUF9kX3NKQkQxMHc?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f5c4c7a99118",
+  "u": "ha_lakhai",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-19",
+  "t": "Drugs reported in Lakhai",
+  "src": "Daily Bhorer Dak",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QRVVFcGkyWWFhdFZJUEN2SG1fUlAzdE5UXzZhQk5TMkgtYy1ac0ZhR3RZU0ZjQXd0ZHdTbWNnYkhyRHpYbExtbXZLRGdxU1JqU1ZTMg?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "75290ad160c4",
   "u": "su_dharmapasha",
   "sev": 2,
@@ -63,6 +107,17 @@
   "t": "Arson reported in Tahirpur",
   "src": "Amar Desh",
   "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVmVEMi1nWHlvOEZpOTlROFc5aTdrNzhuN0ZzYWxLU0ZuaERBaFY1QktlOFZIazNLbTloeHc4UTRuU2FkeW1MUVlhSlVFdlY0UlBTQV9RS3JGalNhalUxRF9LeHQ5R19LRDdZNWZ3ZmMyYjjSAXNBVV95cUxQTlZlRDItZ1h5bzhGaTk5UThXOWk3azc4bjdGc2FsS1NGbmhEQWhWNUJLZThWSGszS205aHh3OFE0blNhZHltTFFZYUpVRXZWNFJQU0FfUUtyRmpTYWpVMURfS3h0OUdfS0Q3WTVmd2ZjMmI4?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "91b26bfafcb8",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-18",
+  "t": "Assault reported in Derai",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZX3oyZW5DZUdqQmpnY1MzcUMyTzAzRmpTakE2U2FtT1IxNUpYZG8wWHAyd2VVb1IzSnhsYWdYdkhnZ29nY1dmUFNlcHgzVkFfM3c?oc=5",
   "status": "approved"
  },
  {
