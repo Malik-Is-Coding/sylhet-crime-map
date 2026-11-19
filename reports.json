@@ -1,5 +1,49 @@
 [
  {
+  "id": "75290ad160c4",
+  "u": "su_dharmapasha",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-18",
+  "t": "Drugs reported in Dharmapasha",
+  "src": "দৈনিক আজকের দর্পণ",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WektycU95NU5VS1BUMER0bUw1OVJVdm5nTXFuRko5b3Y1aEZWOFMwckpTUjVWZ1Y0aGF3QXY0M0JManBsUnZXSkl3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "253e5ff79196",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-18",
+  "t": "Assault reported in Derai",
+  "src": "সুনামগঞ্জের খবর",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaF9NWDBYdnRWVWZlQUZjNnc3OGN6bXlOci1La2VRMm4zYWt2aGdGd2ljbUNtZEpsQzY5clQ4c0o4UWNDT204WWl6enFiaWRYZ0xLWmVhYmRhTTQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "109cf2caab00",
+  "u": "ha_nabiganj",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-18",
+  "t": "Arson reported in Nabiganj",
+  "src": "Protidiner Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TMXUxYmstakY4QjdFVHIxMkhKTVJUWl9hcmxLamdmd1owWTBYVU13NFY2RFNjSTY5SjBKQUhKaEZGUFFLRjZnVHJSNHcyX3daTzVlaEFOdXhUa3czVjdDeFA2cHU?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "d455eb6f3ee3",
+  "u": "ha_nabiganj",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-18",
+  "t": "Arson reported in Nabiganj",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmeHhnb0wyS0VycDZKTTVXT0M1R185cnFVX2hIV2VNODd4alJ3dVR3a2RBVEsxX3kzSDJ1Nm1xb1gtTTFSMGl3bVRIajZFX0xWMFpj?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "03b16232b392",
   "u": "ha_madhabpur",
   "sev": 2,
