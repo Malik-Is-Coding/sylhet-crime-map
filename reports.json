@@ -55,6 +55,17 @@
   "status": "approved"
  },
  {
+  "id": "cd6cd43da059",
+  "u": "su_sullah",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-20",
+  "t": "Rape reported in Sullah",
+  "src": "Ajker Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EUXBnYjFqYVY0b0p3N1dWS1hkaHdsYjQ3REFrU0ZuWXA4TXY2YWY2bHgyMG1Ya01SWWtyaElPamdCdEdhZmpiQVBicGJqYlhCc1hLa2Vlakhza2k3VXhueTlud1Rzd0RWZVdlRHBNZzRKaTQ?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "3f871c2933c3",
   "u": "su_tahirpur",
   "sev": 3,
