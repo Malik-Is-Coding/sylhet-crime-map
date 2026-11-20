@@ -22,6 +22,39 @@
   "status": "approved"
  },
  {
+  "id": "b9713d052b69",
+  "u": "ha_madhabpur",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-20",
+  "t": "Murder reported in Madhabpur",
+  "src": "Dhaka Today",
+  "l": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOM2dRVU1ieUt4RUMzbW51WldaQjFNNU9wekFKQUYxRTcwR3U2d3NhbnM2eDNZeW9RXzlTeHlIWFBfUklpNzBuUmVYNEVRWHRpNnBlMXdSNFFHQlhQYW5aS0xIWjQ1TnMzd3ZXdkZvSXhFZ0YxRGVUU0MxcWdWNlRLTHhZemNpYmdmZUFlTGgwOFV0MkQ3bzhXS0tTekxWRnJfZWVaTUQ2VG9NX3ZFaUZ0a3NYVEJxVERRN1JtczNBVVdnVFlId0xpN1I5VWpza2tjbDUzck5HajZuZHFMNjJhazlrTS1SV0JyaW91UUwxYXppcVpEMGtGNm1lNU9fbGdUSmhsdWtWZXhaSXlHTXJtMkxHdWg4cDlQYzBwYldSTnFCY2tXdHYzLWpwV21WRlowbmluZS1aSGhtTDdSQUktbDJmX1hCbWNSZk5VQlZmZUNjUVZrREhIcEFzeHFBenp5RENyYVJzWHJzQVdCZlVZVElBeno3TERadXBvUTIwclJhQUg0LXpwM0FzLWE0RmxGYVJ1cEJ3RnE0Z2xfNDc1dFpGbDI5M3JHVUdNQ3dhU2RwTzAxQS1ndnE2cXZpaDRkeEpNR255ZFBoWWJuRW9ZR2xsZUZPX1RISl94WUFDZ1YyLV9nYWVZU2ZyY3doeFI1Ykg3MFYyR21UTENKTG16LXh0aFhLN2dQSTBXWVhNbTZmbFVDYk5ldVpNY1dWN2ZLZ1l6Q3kxZkdDbDE4aUFIaUkzYUREMC1tV0pIQUFnM0Y4Ul9nZk91eXh6Q0U4TDZRc1BqcGM2LUNPQy10aWhLbmVtbEtpekdsLXNkM3FGWHIyNnBDeUtCRTRDYXdySm12V2JCWnRRMmNVOUVRaldiUVB0bEcwM2hmVFFza0VodTFWRGpYWk9uemxUNEdBQQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "8199e49c4bce",
+  "u": "su_sullah",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-20",
+  "t": "Rape reported in Sullah",
+  "src": "দৈনিক এদিন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaFB3U3NsZVFsZG8xSThma2NXVHZXQmhOT0JVbm9Ebk8xUnVjQXJQd2d2d3hfTzFhWXh2dVlLelI4aTlYTV91aFBMSQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "9bd525eeb6d9",
+  "u": "ha_madhabpur",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-20",
+  "t": "Murder reported in Madhabpur",
+  "src": "Rising Cumilla",
+  "l": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVUM2TFl1QTd1aDBkLUEtQUU5c0o1a3RzaVZmaVpCWWlFUmZVbk9EMkV3VEJpNDJlbWJTb3FUWUhQeHJuQ05wSTZYWHkteGV6M29fSTljdFFBZlFNYmN1YWotN3dRVk85NFlrY1BsMGRzbHptTnBZcEFQTkU3VVBVNFpJdjFPR0FPZEZfdkVMZWFCSUQ5WThucjZxRDYzZmxHS19tQXBXVGhhSG5jMmhyaThuYWsxaXRHakJEY1pBRE9lRTdUOXFQRUxBR2RiZFJCbGxvaEZ1NFlhU1V6czVhNzl4ZmZhblBIMHVmcUloakwzUGdRNEFMY1MwU3loM1BXWTFPZ0pwUnh3cWtKSi1oeDRfVnZJUTU2aDl5aVJ2LXhuU0tseXdPbEU4TFctVENIdC1SV1NVY3VKZzB0RTVSSQ?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "3f871c2933c3",
   "u": "su_tahirpur",
   "sev": 3,
@@ -195,6 +228,17 @@
   "t": "Assault reported in Derai",
   "src": "সিলেট ভয়েস",
   "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZX3oyZW5DZUdqQmpnY1MzcUMyTzAzRmpTakE2U2FtT1IxNUpYZG8wWHAyd2VVb1IzSnhsYWdYdkhnZ29nY1dmUFNlcHgzVkFfM3c?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "3f0c4b5986e3",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-18",
+  "t": "Assault reported in Juri",
+  "src": "Moulvibazar Pratidin",
+  "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TaHFVZUFpTVRUU1pDbzhocGdBVGpGZUhjR0ZZSk84RDRJWXg1OF9oRnlQOG9SV1JzcGplRy1qY05GWXQ0T0FnRDNGMTlIMzJO?oc=5",
   "status": "approved"
  },
  {
