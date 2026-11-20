@@ -55,6 +55,61 @@
   "status": "approved"
  },
  {
+  "id": "e25a59b5da40",
+  "u": "su_tahirpur",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-19",
+  "t": "Arson reported in Tahirpur",
+  "src": "muktokontho.org",
+  "l": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwY182OGswcGN1R1BRRHdaZGU1NVZMa0VtdWdEbC1WRlc5NGdBQ19uZ2g0WFY3bmZ2YVNHN0dFdFdFTVB6Q0RBdWpDN0trVEstd29iWFQzRUxCb21ySGl1Nl9HemdBeUFMTS1DMnBaYi1NdFFVME5ORmhB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "8d0d8e6b8ee2",
+  "u": "ha_lakhai",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-19",
+  "t": "Drugs reported in Lakhai",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1scS1SeEpVZHMzN2Q5VXhFWDBVUFNrODRpc20wcThFWTlKX1lUaGZhd3M1YjlJNG1FOEhPQWNoM0pHNG9pZEVicVNGSUFpSlVSSUxr?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b84eccbafba9",
+  "u": "ha_madhabpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-19",
+  "t": "Drugs reported in Madhabpur",
+  "src": "Dhaka Today",
+  "l": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQWmZ2SGNOU21HUEpOWUQwaU83ZmV5c1RuVzBLYTRvZDVTTFdUcU9ucmZ5bW1QQTFfaUtLbWptRnVlaDgtSWJEVjdXSW95bFMzMzRMQW5nYlFOVmVxNjd3UnhEVVVpek9MR3RBM1VYQUlEZEg0YVEycENqb0FWSGkzbElmQ0RtRGJGb0RxT2NQdFBQTXRqa0hZTEZWRU05ZXVhaXB2Z1NzaTNQcTF6Tmk5TkhMejBONGV5VFV3aDNvS1BlcUJzYnBDbHVsSHZxMF9DMG54d2FBWUlaZUI1WTRVNUliN0l0SGFXQnI3LXdzcm9EOEo3dzY0R3BrelI1ak1EdjkzN2xBbUdCOVN6MDFjQmE1Z3BvV0pncTNmakdJdHJBTVlBQWhjUmM3ZDU4aVc3bk9XUjJTSmFlakw0YjVra2ZFUm1QanpzZXJudzdaUmRrQktydnN4MlhOZEdEdFl6UklZbUVLTFJaRkFhWWpoWExlUXc2ZFVvaFh6TXYwTFp2Rk1nMWdZZTk0amtvREJBMm1Ld25QNmhRZw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "03f43c3151fc",
+  "u": "mo_sreemangal",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-19",
+  "t": "Arson reported in Sreemangal",
+  "src": "Janomot",
+  "l": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xYld0TXZPSEFMYkpIR050N1hqOHBJS2FzQkh5cmdaOWgxWUV1YVo2MTJGMG95RndZRFd6VlczOVlIZ2YyYkVXZ19n?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0ef524771ce4",
+  "u": "mo_sreemangal",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-19",
+  "t": "Arson reported in Sreemangal",
+  "src": "কালবেলা",
+  "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ueV9TQVZQcGttNElDZUJRMi1fY2c5aVF0V0E3SjNBY25MYTNRNTF0X3ZoalBMNTZ2bHVYdFZYWjl1YWdtR2hZOTBPX0dJN3RKOG0yc2dB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "75290ad160c4",
   "u": "su_dharmapasha",
   "sev": 2,
