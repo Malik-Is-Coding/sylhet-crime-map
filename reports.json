@@ -66,6 +66,50 @@
   "status": "approved"
  },
  {
+  "id": "13b448085be6",
+  "u": "beanibazar",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-21",
+  "t": "Drugs reported in Beanibazar",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJeWJweFJnZjZ2SjNVRlkzQ2F5WkN5VTRPM3EwMFFtMmpkRUVnbDQ4Y3AzYXNKaXZvSTlFT1ViZnU3MnpRX24ybUkta080SlNCM1FQcw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "e40c3d6aabc1",
+  "u": "su_sullah",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-21",
+  "t": "Assault reported in Sullah",
+  "src": "কালবেলা",
+  "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ya1F4ZlZKQS1VanBFNFpXczV0WGpoWlgwUDl6QTBnZ1U3Qi1ScGRoYlcxRTRmZVhCWjdkS0g4Sk1FcUhpTFZKNzdqUHJvQnVpaFpHVEt3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "fe754e2105d4",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-21",
+  "t": "Assault reported in Derai",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jWm0tRnI3Ui1RRzFOQWlhOXZQeTBVYmtqdTBBbkx4eWZSUDJlbElqQnRSVjhUaklaWXVaWVVoeExsU3dsbGd5X1EzS192YVRHcUE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "913ff67c5da3",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-21",
+  "t": "Drugs reported in Juri",
+  "src": "Ekushey Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GbTFsV3dLWDBzWHBGR0FjWGt6bWs2bmdTZFRGLW1iRUNqQndPU0ZoNGtpRmFBa2M4MklESjNVUnpJdWxnVXliUDJ5ZUdGY2xFUlhScUM3SnFQTG12VHow?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "4446db69c4b8",
   "u": "mo_sreemangal",
   "sev": 3,
@@ -129,6 +173,17 @@
   "t": "Rape reported in Sullah",
   "src": "Ajker Bangladesh",
   "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EUXBnYjFqYVY0b0p3N1dWS1hkaHdsYjQ3REFrU0ZuWXA4TXY2YWY2bHgyMG1Ya01SWWtyaElPamdCdEdhZmpiQVBicGJqYlhCc1hLa2Vlakhza2k3VXhueTlud1Rzd0RWZVdlRHBNZzRKaTQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "796454533ca8",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-20",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEOGxWMW5KTGFCTHFOcjNOTXdNLWUxcHl1X01VaElrd0xYYnBWN1NnTEx1bUNIbUJKcElVd1BwZnBzTDItamFJV2hiUWdiWGlXamlv?oc=5",
   "status": "approved"
  },
  {
