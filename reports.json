@@ -110,6 +110,39 @@
   "status": "approved"
  },
  {
+  "id": "6a5e0a0c82b0",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-21",
+  "t": "Assault reported in Derai",
+  "src": "Sylhet Today 24",
+  "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0OTVCV1B0Ull0bGxHLU5QYU9nRTBMc3l5dzhiYXBYaC1ySTdJWlFmMlhhV2VpeHB3cG1YV0ZwdFU2SU9WbkI3VHBadlU1a0tzNm1tV3gtamhSSC1na2VBTU9fTXEwZjNx?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "682f64b0d84f",
+  "u": "ha_nabiganj",
+  "sev": 1,
+  "cat": "Theft",
+  "d": "2026-11-21",
+  "t": "Theft reported in Nabiganj",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16TFV6VFhBdXNZWGp5dVZhajdQOHBNWHZrS0hxUFR6UTV1S0VQbVUxY2pvcUdyN1R3S0FQVldOdVVfV2ZMRFZQNzktMnBOTWZSbUs4?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "e9d5cde5996e",
+  "u": "ha_lakhai",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-21",
+  "t": "Drugs reported in Lakhai",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UVml4UG9wcjVtbDhsU0RRdzdpRm10c2hENHFoQ1ZrREJULTdObnE0UE1ianVUOFVobWFBN0RpcU1JOTBpUmttSGliQzJpMW5uak5n?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "4446db69c4b8",
   "u": "mo_sreemangal",
   "sev": 3,
