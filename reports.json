@@ -11,6 +11,61 @@
   "status": "approved"
  },
  {
+  "id": "0a5aa32798b3",
+  "u": "su_dharmapasha",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-21",
+  "t": "Arson reported in Dharmapasha",
+  "src": "Risingbd.com",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taHprWEp4Y2V6aVlmZk1UR29nQzNLZE9CaUl0Q2xGZkcyLUJCOURfdE9SOTk2QnNtWi00Tllmb3lWTTJiTGhMVXd5STJOaU5oa214UXM3MjZuV1HSAVJBVV95cUxNcDZzWFVGZVd1amxNaFpINklrbTVmd3NybU85ZmNYSnpnMXNwQ0praTZxYTlEdjM2c1RRZHFkUTM2R091aVBZd0VVUGJobUVsTndB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f712c1360b7c",
+  "u": "su_sullah",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-21",
+  "t": "Rape reported in Sullah",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBRjhHU1lJbmVVTzZQZzBvUXk1VjZteHdIdzV6QzdwQTZOekxyRXhVR09yTFlvTE1SaVBoc1F5UTZWZGpfRU5fenBtVG1tWmpxRFE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "21a99b58a03f",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-21",
+  "t": "Drugs reported in Juri",
+  "src": "Moulvibazar Pratidin",
+  "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pOHBvVm5haENJcWFnb3BjZGFnMVFTQnRhYVFPV1NFTV9iREw0YTBKREM3Q2gteFhxZG5mUHlkNWg4MWFodGFldi1JbjJTaFoy?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0e00423c801e",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-21",
+  "t": "Drugs reported in Juri",
+  "src": "Bd24live",
+  "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRXc0Yl9kamdEamdSNFcxZWR1VEZOaWdVRGdnR1Z3LUxXZTFTQkpxZTVOV0JqQjg2amdTZHFVa3RBb3hXb24yQjU4UVIyd2M?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0ceddee4c6a0",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-21",
+  "t": "Drugs reported in Juri",
+  "src": "বিজনেস জার্নাল",
+  "l": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdFpYWU9zOHBYVUNYYXRzR3VxVEUyN0lmamhpQVh3OVNFdGZlS21KYVd3Wks3UVd6bW95TWExVHRHUkVBWWRFdkVIR1VfbTlkMmcxSERBOVN6M0U3Vkc0enZ3N21mVWdVYV9ncDRlMEQzUVAzWFFYUThGUERQenJqTDUyVXJVUmttUWlsNmItbkNBQWhMM1Z2bVVNSFZrSm44d3ZSaUN2QV9LODZnZkNpeWlpN1JRTWNOUWpjUFJldUs3Wmp2U0RHM0FlM05zN21PRHp4T2R3SU0xZkVNay1rQWFURml0OV95ZE5vVU9TNXpXdUlsQ2JaTTAwc0pCSzYycWxNQ2ZCcVFUVnk5ZHUyRHV1WGRzWVh2ZXlKbFZvYkc4TVRYOUJiWXQxSE5uM1poMDc0THJrdnBjd09BdUs2YnpqLUpiZw?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "4446db69c4b8",
   "u": "mo_sreemangal",
   "sev": 3,
