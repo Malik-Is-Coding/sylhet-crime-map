@@ -22,6 +22,28 @@
   "status": "approved"
  },
  {
+  "id": "0e75ac8f4ebc",
+  "u": "dsurma",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-22",
+  "t": "Drugs reported in Dakshin Surma",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQUUFISmRxOEY0ajF4UGc2VjNYZ3A5RHM0QVRzWjNWcGFleGpZS1dwNlpwWTk2RDdhczZjX1RaZURzLUMyTHE2WTBjcFJPTEstZUstTw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "ab992b4eda34",
+  "u": "ha_shaistaganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-22",
+  "t": "Drugs reported in Shaistaganj",
+  "src": "Ajker desh ·",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMR2xxNWg0RnNfTHRDLTRQNlA3OFd4OWw0aE1MUkRrbVh5eVJFazdMQktyZzZnRTloLTZrYm53OW5KZ1lOV0RTWEFRUXVzX3JsQWFB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "a854c9b5d0dd",
   "u": "ha_baniachong",
   "sev": 2,
