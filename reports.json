@@ -11,6 +11,17 @@
   "status": "approved"
  },
  {
+  "id": "2ff420287739",
+  "u": "dsurma",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-22",
+  "t": "Drugs reported in Dakshin Surma",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OaVUxNTBvWVlsRnV6amVEdndROHhWX1NMX25iREpNRE90V25FbWdzMm5sbXFZeTJPWDkzUUhXX1BqYXdIRGp2RDVKWF93aGY1Zmc?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "a854c9b5d0dd",
   "u": "ha_baniachong",
   "sev": 2,
