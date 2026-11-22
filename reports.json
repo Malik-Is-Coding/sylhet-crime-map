@@ -1,5 +1,16 @@
 [
  {
+  "id": "6f501915fbef",
+  "u": "ha_shaistaganj",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-22",
+  "t": "Drugs reported in Shaistaganj",
+  "src": "Daily Tritiya Matra",
+  "l": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNY0hGZ3ZPaGZneFk5YWVzZzNROVZIRzJqaE5jRnNucHRBeGpoaGMwYS1qNDNVcDVGRGVNZGRGWlRFOUk5Z1JRYkZ4NDVSNzlIWjZHOU9KYTlUTVlSZHE0V1llMEV3THhfWU1ISFhiUnVGMDUxT1pyc0FrV1o3YnRjOTQ5ZExUNmxDcThZNnhrNFVybmU1Q2VLRXJrTl8wSnB3ZkNZMUU3bVVrSWpiZVZyZnJsNmlnQ1dxaFFmNXlMRXZraEptdlNUYzVUNkhhc1oxelhYZDdTRmR6N01uUmROWFNzX1g0TWMyaUlSdWVNa0xDRDBWcXNEbm9KcFI2RmVXU3R2UDlGcm0tUzRyNWJaMGlfR09mQVp0cmFyaFo1YjlQZDRZS21tTmtDQnJqQ3hkaFF2WHdLQm43UHBUUGpmc0dWbzIxeGx5WWx1a1RJODhmWm8tZUtMVFhhYWUxVFJQNG9RYW5TWmFRSlpJcjE1VjdWWDgzMDZTMGpZMnNaSml3eGY2ZHBfcjlReldzNjhZcGhTdmxqWlM4bVhxc0o4RVpWYkVVMEVVOWM5YXZVT0dyZ0Z0MTlTSG5YbkNGYWpJMkpnNFE5aGh6UTIyc0pwd2hNV2hTdGlUc0pYY0VmM3BOa0U0Y3Q0dWNUMU52U3htUmZzNzAtc2VxdnBXQjU5WVh5UkpMZnh1S2ZheFJ6cnNZRTQwUm54M2lNQVhER3ZZMzhPblBsV1dfdFA5QnY3S1lFVl9OQ3B5RlhvTVdBaERTMmdUby0yZ202RWE4cmRiekFRTUdYcDhsS1hENTVneW1ORnJsZHd3azU3bVczdDJUNFdaamo4ckFCM3hTcUF3ZGhzcEt0Nkh5R3JZR2x2M3dyVVFUd25FYnFyUlU4YkxqdmlIXzZXRHJKMjFNQW9IU04xMHVVd3VzY2tNUDlSZzdvaFFYWjB2U2hfYjJkc1VfMWtWaF9McA?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "a854c9b5d0dd",
   "u": "ha_baniachong",
   "sev": 2,
@@ -143,6 +154,17 @@
   "status": "approved"
  },
  {
+  "id": "6a71525ac869",
+  "u": "ha_ajmiriganj",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-21",
+  "t": "Murder reported in Ajmiriganj",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50aXpaTlp5b0lZSVFwbHhTYUJGM3MtcDlmTjVURFdnbWttaDZtSHpUblBHUW40SEgwUExDdmx0T3huajBldVRteDB3UVFRRnpLMDJV?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "4446db69c4b8",
   "u": "mo_sreemangal",
   "sev": 3,
@@ -217,6 +239,28 @@
   "t": "Drugs reported in Chunarughat",
   "src": "Habiganj ExPress |",
   "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEOGxWMW5KTGFCTHFOcjNOTXdNLWUxcHl1X01VaElrd0xYYnBWN1NnTEx1bUNIbUJKcElVd1BwZnBzTDItamFJV2hiUWdiWGlXamlv?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1247df5f67e0",
+  "u": "mo_sreemangal",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-20",
+  "t": "Arson reported in Sreemangal",
+  "src": "The sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pY2p2bk9ub2l5SEdDam5VTUxIRjJ2dVp2VFhLZXN6QWc2akpBUVRBTXdzOVI5eElEenlUNDZma1RqVlNfRHc?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "6a4cae0c2dd8",
+  "u": "mo_sreemangal",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-20",
+  "t": "Arson reported in Sreemangal",
+  "src": "Ajker Patrika",
+  "l": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVlphc3daQTJMVGt4N1dQYV9sU1h2SDZmVVFBYkFBNWlrRkw2RjhfM1ZUSzFYbXpidFNDX0hMMndIQ29RdXBnaTdUWnoxcXBHWlpMY25aR0xpcUMwbFRDMURza1hUaVFEbWpna25seGlZb0ZMYmlrS9IBeEFVX3lxTE9GVlphc3daQTJMVGt4N1dQYV9sU1h2SDZmVVFBYkFBNWlrRkw2RjhfM1ZUSzFYbXpidFNDX0hMMndIQ29RdXBnaTdUWnoxcXBHWlpMY25aR0xpcUMwbFRDMURza1hUaVFEbWpna25seGlZb0ZMYmlrSw?oc=5",
   "status": "approved"
  },
  {
