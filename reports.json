@@ -1,5 +1,60 @@
 [
  {
+  "id": "84d5baca0a74",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tbkNUZExpNGxpWFZKYWUyVnoxQnRoUHItNVFlQm5hZXhWZ0hYQzlnSUtvSXpmdVNFdzBCdnlHU0lqd1RLZm5rYnBnTkh4RWZVY0E?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f88cf5edbfe3",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "দৈনিক এদিন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IbVhtekswV3VhSkFNTVhvVnY0ZFRhc2pqd202YTRnY0YzVHQ1VVNWb0dZRDZvdjlDMHZ1aWNwZ1dnQXRlNzJ3aHdCSQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "cfd3cd18e7d6",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "Shomoyer Alo",
+  "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZaHBsSkI5dHV3R0hDSkNOcEV2VjhfMWJMMWxEclB6S0N4UDFFREVsRHhUZDdRUG11WkV3MDJ1Z1JZclpoWDhrZWpyMGw5eHpk?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "11ca6b9ae61f",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "Daily Naya Diganta",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GQTNRSlhwS25WdWhVZzhBbG43MV81RXZNQURNa2xnb0E5b083MTFPeWNzNGlXMzJGUkw0bThQUDVVZHI5Z2tWNklVYkQwbHZ1V0hGUE5wNWgweUk?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0d8c91dd07c8",
+  "u": "ha_lakhai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-23",
+  "t": "Assault reported in Lakhai",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CNFJTY2NFSTdUMWFTbFdTbkVfZGloUHo4Vk5PS2ttNzVCVVJOd3RMUVNDdzB0ZHB0eHFwbWF0cHZJa0NPS2JOWDhveU9zTkM2RzlB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "6f501915fbef",
   "u": "ha_shaistaganj",
   "sev": 2,
@@ -41,6 +96,28 @@
   "t": "Drugs reported in Shaistaganj",
   "src": "Ajker desh ·",
   "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMR2xxNWg0RnNfTHRDLTRQNlA3OFd4OWw0aE1MUkRrbVh5eVJFazdMQktyZzZnRTloLTZrYm53OW5KZ1lOV0RTWEFRUXVzX3JsQWFB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "543c9c7df600",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-22",
+  "t": "Murder reported in Gowainghat",
+  "src": "sylheterdak.com.bd",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KdlpiMzA0XzB4TXhDbkpYWGxPV0JqNXJQTTFqSVlnWU9BUXpId2k2amt6ZTNZWEVqb2hjVFZibms5bUV4XzJac0w4N3ZhTlAtaTdnUA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "3106db1bb2f5",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-22",
+  "t": "Drugs reported in Juri",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKNkQ0aVNYMEo3eEZtQWFLZ0tBWUtwcXU5ZTFnUExqc0Y1VlZGaWNDSUVtd0RqUFozRHR0Z3IyUk9HZVlSR3dlV1BHSFQxbzg2UDhoSA?oc=5",
   "status": "approved"
  },
  {
@@ -294,6 +371,17 @@
   "t": "Arson reported in Sreemangal",
   "src": "Ajker Patrika",
   "l": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVlphc3daQTJMVGt4N1dQYV9sU1h2SDZmVVFBYkFBNWlrRkw2RjhfM1ZUSzFYbXpidFNDX0hMMndIQ29RdXBnaTdUWnoxcXBHWlpMY25aR0xpcUMwbFRDMURza1hUaVFEbWpna25seGlZb0ZMYmlrS9IBeEFVX3lxTE9GVlphc3daQTJMVGt4N1dQYV9sU1h2SDZmVVFBYkFBNWlrRkw2RjhfM1ZUSzFYbXpidFNDX0hMMndIQ29RdXBnaTdUWnoxcXBHWlpMY25aR0xpcUMwbFRDMURza1hUaVFEbWpna25seGlZb0ZMYmlrSw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4115c7ad0543",
+  "u": "mo_juri",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-20",
+  "t": "Drugs reported in Juri",
+  "src": "সকালের সময়",
+  "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WdXN1WkNnOGtlakotcGh5YjVldUNOQ25XdlhLT09OVnpkZzMzcVdfY2ZvaTlBemlVbE1IdzBLcXU5a1NTeFduc2JzQ2QzQzBYdTBTOU9ZTjg?oc=5",
   "status": "approved"
  },
  {
