@@ -55,6 +55,127 @@
   "status": "approved"
  },
  {
+  "id": "2304216f67be",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "Daily Bhorer Dak",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0cDU3YTlEeTZzOWpXckVtQWFMZ3V3di1mREIwWlFJbDlaRFJjSFFPQmJNcHJiaWQwb2VPSW5ESVQwUWdYUEtrR1pfU2pDTjBhTVVWSg?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4a70ea8b6329",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "সকালের সময়",
+  "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYnY5YkFEVENld2hrWVptWlN2UXAybDdPZzdkdklfSmpicXl0cTl5dzBFSGlzUTNRRnR5THI4aW1lRTlEZVZrMVNMaGZaS0dQOWRwT1A4Q0k?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "f8fc6cf8cc42",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "এইমাত্র",
+  "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNeWhONm9Kd1RUZ0U0YWJRbldsNW90YWpZeEZHX2V3STdXQVhyQmM5NXQ2TXJUREZuQkZQRGd4eEFySVlDMHlUbmEybUc4azhBWUNuYmtFbEdwTzJXa1Nwa0dn?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "520f5fd08f8f",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "Dhakatimes24",
+  "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUWJ5LTZwVkJuU1hfY3VwZEIxNjRTQWtQaFhjdXNrRGJ1ZGJjSDdRb1ZXcHlfNnVfWlNaWHpzU2VqUXFWbnBtZ2VrS0liNGZwRWR4RXlTbUszQQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "0afc10d366d2",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "https://bn.thefinancialpostbd.com/",
+  "l": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Yazg2N1pXcWJ2VzZsSXZkX0dLRjE5Qko3Yml5ZHJUeDZFVnRSUDlyR2gtbWJ2b0l4UkZYZHdRX2swUUZ3NlVBTlZYX3JhM0JZa2Rhbk9ycw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "2110e3cd7125",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "Amar Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oWnZTLTJxcC1uS0t1VFVxel9IS051amlLRDEzMHhsaXllMTFXYndiQWsxQVBqMU54S1NicFJaY1lXVFNObWdyQnJnRUV5SFRCNTkxa3VQaURxamvSAWBBVV95cUxNRWpQUUdQZzkxWTNCN3h5VFlWOG41VWVzWWVHazA4Vl9vOWI4aG9MbXAzT1lQMkJ5X0l1Y1JqVE9IdHg1LTZtaThwVFFxTnA0VGdrVHBxLVZ6Mjh2ams5Z0w?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4a286d76e178",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "Daily Jalalabad",
+  "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TcVA5ODhGNjNxQ0NQSXhQVHVEV0xIZWZRbHBUSUcxZks5Y2d2SEp2ZUozUEZsaS0ta2U2NjRCbkFldEVLN0VsTGVWRkxiV0YxWDNSOQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "a6e0bb86c196",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "Daily Tritiya Matra",
+  "l": "https://news.google.com/rss/articles/CBMilAZBVV95cUxPZ0U2RERlWmlKX1VRLTVuUHRiNmhlYW1ORllrNzdETDVYT0VraFd0dEdHVkN2S2c4Ni01SFZvMGRSbHpxTUV3SDhlaUIyd3JLQ3M3VDhvV0pld3J1cW9wNko0TVlVb1FMa1BEZ0tiZGUyUXhJWUVJcHhjazNFZHFmbUc0TEhVbXBMYk5BNjJQMC00S0t6YzNDY2dQNTNMYVdjY3JHMFM2a3lFZlhHMGcwYXBEd2E2OGtucmlqcjhfS0N2ZWtWZEVwellsWmp2Tko1dDlZZzFrSXYwcWFMNWVIaDJSUDlwelhESnZVWWh4Wmx5MGNVbXFqQjMyN1RueTl4Qk4yRUlSSGF2eXFva0Q3Rkd6Z096UEo2NWstVmRYRVVvRlI5TW84aGxLQVlueTM2aHFtdi1EeW5sUy1lMllNNUE0LVBhRlRubU9OTi1wclBlVW1jOVZKS0FmOUlMMmJRenY2NzVLSjEwMmZZZzRvTXM5aGo3SWgzM2VGVlVtUlBsVzVKRUhEeFZOR3AzZXBnVVhjX1owenFLSzVXTGVpbkxJYkJ3MnQxekc3YVV4X3R0alg4VVlMVlhIdDlMQ29DRWxUaUxlaEFSNG9MME0tRXpYaUtLc3NuVF9scWJ0X1czMFZlREUycTA0Q3ZGN0hwbmR1RkhWYjM3OVduY01TZVphU2RqQy1lMWhIT2Z6RXc0UTBvS0lvNDRFdHc4MFd3RjlzMDdiTE12bmJ2NHZqdF9JVVN5ZzRMTXdTU3B4S2Z1NGhTWUhoSDVVVGs5Q3RKY2wzVXdMODhydWo4bGp0NHk0NTBpSFA0SlVLWDJSMXAtc190VkNCOUw1NUhMX2dObl9fUG5FMnhoVVRwZUR6QjhEdFJDMXBGRThtSGJGVjZvMW84azFFOENqakp0RXVtTWVUY1Fyckp5WG9WOFQ4TGJGdG00ckppUllpME1hamRBTEJxSXV2SEdfTE85Zmw5N1JvNWU1M3BSVV9scWhERV9lTjhyeU14V0t1U3NnV3hsTjdWcU5HbGYwRmFGQU9Bd1hCOA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "24ef4576b18b",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "The Bangladesh Today",
+  "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iZW1SOWZ3dERHYzRqTy1xVXlaVDgtWFl0SFoyWVVSR0tBTF9uNDFmRjNvdi1YY0FSTlptVlhtUXlaUkF0RVJYdWN2dU5tOXlNUDQxNjdKLU5qWjJGNkNxSXBTWVVOejhvaXdOWjRrQi0?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7fd0c210d52f",
+  "u": "su_jagannathpur",
+  "sev": 3,
+  "cat": "Rape",
+  "d": "2026-11-23",
+  "t": "Rape reported in Jagannathpur",
+  "src": "Amar Sangbad",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNjJmSlRuQnJkOWdEN3ZXblZ3cVVLeUlQeDE0WFA2aG9oS0V3MzhaQXNfbk1CelBwVjFJR2NNRkRCN0JZYWplWTYyajZrX1ZJaElLN24ybXBreXfSAWBBVV95cUxPMGotaTQ0Q1BTOW03VkdnbTIwSmpMd19QODdEbl9oVXVianhXRldwMDNhRUVFYlpTZzV3U2xxZEVNSW02OTAzYmFJeHFLYnhnY0g2dGpKV2tOOU5wYTcxWF8?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b50afc6df2fb",
+  "u": "mo_sreemangal",
+  "sev": 3,
+  "cat": "Arson",
+  "d": "2026-11-23",
+  "t": "Arson reported in Sreemangal",
+  "src": "Patakurir Desh",
+  "l": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QaTFZMUN2Vi1lRUFXRmJOY0VqWXp4cGs0MTlPal9jNnpkS1E5TGd0Z2VIMWM4dl9EdjFFdVZjNEtHcWFYS2x3?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "6f501915fbef",
   "u": "ha_shaistaganj",
   "sev": 2,
@@ -118,6 +239,28 @@
   "t": "Drugs reported in Juri",
   "src": "Daily Jalalabad",
   "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKNkQ0aVNYMEo3eEZtQWFLZ0tBWUtwcXU5ZTFnUExqc0Y1VlZGaWNDSUVtd0RqUFozRHR0Z3IyUk9HZVlSR3dlV1BHSFQxbzg2UDhoSA?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b47758e7ec45",
+  "u": "companiganj",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-22",
+  "t": "Assault reported in Companiganj",
+  "src": "Daily Times Of Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxONzl2Ti1CMVQxSHJyejhYX1RpR1JzMXJvYmZQWHZIelhTWm8tbHdpWWVVNWJ1SnV0MVA0aHltX01rUzB6bVpDaTFEempZcU9BOElaMTVCYkp3WkJKanktSFZnQ2x2dU5yWDlJQjV0ZGxQaVV2aW1FTnJKYkhYeU1PVUljN2ZDcGVjM2QzNHB5ZURxRjhtWUZITmNSLVVtY0hiM1ZNWl9pRGw4VVI4NjVHdFltWGZvMFhybmRsX1d0Y3dBUGpJeExCeHl4WkJRV3JYejJBMzJJRkdsMHNtUmFsazFuaDVham5VZFRFZTE1MEllN0tQN0pmdE9NeGNsX2JTbFhlc1cxOGRMNGQxMGc3bXdtRjhVWDBqY2g3T2RNNlJidUptUEZSQl9YY2pmcWQ3ZXpKeGg4RzIwdmN3ME9nRGVqVEUyOFI2?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "911ae806bc59",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-22",
+  "t": "Drugs reported in Tahirpur",
+  "src": "দৈনিক এদিন",
+  "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5abE1fQU1DTUxwMUhwbTA4UG0zLWI3SjJwMXdIVE96eElXYnlZVlpUWDFuQ0NObjJQMzdZMEtpQ0xDUjNEdlVueF9mZw?oc=5",
   "status": "approved"
  },
  {
