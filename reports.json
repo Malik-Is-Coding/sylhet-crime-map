@@ -1,5 +1,71 @@
 [
  {
+  "id": "6167d0540670",
+  "u": "kanaighat",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-24",
+  "t": "Robbery reported in Kanaighat",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NaWt4d1RyT1IxY3AtUHZCbWJFZnVrWFZXYlZxT1FUZ2h6dTZkdzQtbWRuUXFPVTFBaDU2Zy1VbzVLdzZxSTN1cWFneWxINTBJTzN3?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "490dfe0be26f",
+  "u": "kanaighat",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-24",
+  "t": "Robbery reported in Kanaighat",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLbF9QYzdrbXg5OWFQdWFFNkpjbzZwWTY4RVQ1eHZXZ2ZQZW5pMnJwNUVRWDA2ZDdkN2lMTkJDMlhqZy1PUDY3WXRqdV9GT0FHaEE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "3f8e279d2a44",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Chunarughat",
+  "src": "সিলেট ভয়েস",
+  "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ka2o3bDM5Ql9MYkcwMzRyZHdVQWZLUjNxcktkSmRZWXB5LXgydFphQkZUVGNVMk9QeV84TTVIQmZnTWJMakMwOFc0aVdsVFE1S3c?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "e574b6857515",
+  "u": "su_jagannathpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Jagannathpur",
+  "src": "Ajker Patrika",
+  "l": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5cHRIZkNPUF85U1JXQUxJS0JZRHJEQ0ZTREZGQWNrWGtJZVFkRWdXMU9XTFFGVVV0aUJVaUhuRVZULXh1ZFlUTDVCX2dJUExlX25fWS0zd2R4S1NVY1BOU2JNcHQ3M05kaWdqZDNSMk5NY0swd0HSAXZBVV95cUxQOXB0SGZDT1BfOVNSV0FMSUtCWURyRENGU0RGRkFja1hrSWVRZEVnVzFPV0xRRlVVdGlCVWlIbkVWVC14dWRZVEw1Ql9nSVBMZV9uX1ktM3dkeEtTVWNQTlNiTXB0NzNOZGlnamQzUjJOTWNLMHdB?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "cad97f5aad04",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Daily Observer",
+  "l": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XNllFQ3JpYzdGMTFvSlRJOGk1TzVIRVhOSlM1ejBJcnJCNHdoczMycFJDa0d0WUlLOGFnQ3pYeHpXWldtYnJocF9zZ09Ydw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "9fbd39eef86e",
+  "u": "mo_kulaura",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Kulaura",
+  "src": "Moulvibazar Pratidin",
+  "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrWk16c0lOY3lxUU1OdFRiOTlEWU13dXdaR1h4ZExRYzRvZEhGdFhKZVJZbUtKaThMeEw2akY3SXZocVdsYUNWZ0JSVHdQdUhI?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "84d5baca0a74",
   "u": "gowainghat",
   "sev": 4,
@@ -176,6 +242,17 @@
   "status": "approved"
  },
  {
+  "id": "87ecb42b2ab4",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "সময়ের কণ্ঠস্বর",
+  "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tQ1RFU2NXX3gyYVlJUXJZeElvQmJnUmNZck1rMHMwWmNmcFFtYUNlZDRyYzNiTHBqZFZ4NC11Ul9hTHI5M0laS3d5QkJIa19TRkpyVkZUSi1OUnhhYUduVWVzYmpNdGJoYzFGTFJXMA?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "6f501915fbef",
   "u": "ha_shaistaganj",
   "sev": 2,
@@ -261,6 +338,17 @@
   "t": "Drugs reported in Tahirpur",
   "src": "দৈনিক এদিন",
   "l": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5abE1fQU1DTUxwMUhwbTA4UG0zLWI3SjJwMXdIVE96eElXYnlZVlpUWDFuQ0NObjJQMzdZMEtpQ0xDUjNEdlVueF9mZw?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "b9c2e6aee671",
+  "u": "ha_lakhai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-22",
+  "t": "Assault reported in Lakhai",
+  "src": "Daily Manobkantha",
+  "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idkUwOXFFc3FTOWc3cVdHbWE5ZERfRUlWdnV4b29lWnJ4eHVVZTFHdGpCdGtfZkRXTUczeGgxdHlxLUdWTXdGYXN6RV9CaGR0TFpEb3BtNjlMQQ?oc=5",
   "status": "approved"
  },
  {
