@@ -11,6 +11,39 @@
   "status": "approved"
  },
  {
+  "id": "1d8d45ee6dc9",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-25",
+  "t": "Drugs reported in Tahirpur",
+  "src": "Ajker Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TaUNtRG91YUExQXZwT0czN09jZExmWUp3X3dKS3hIUms4LVo1elFoM0FCMGMwWmhyWHNjVC1YWjg4My1WQ0dKbnM2cWFyV1JETE9aQzdGVjRzR2tGNm0yalJvVkd6Q2xfMEE?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "20f39c906143",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-25",
+  "t": "Drugs reported in Chunarughat",
+  "src": "বাংলাদেশ বুলেটিন",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zMG51TjkzX1QwNDc2SlZnMjFDeVU3NlNSZEtpeURtcjNLTGRNZ05MdGhRQmFnRlZ6T2ROREd0SmNnVkE0ZFdCdURuMHk1cVhOSThr?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7ca2f51bd078",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-25",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Risingbd.com",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrY3ZvRFFJWUJvbWVXNkZVR1BZWUYzVDFRczFnVXEzYkpLNTZjNDBDVzVUbFBUSzFDZFU4Xy1Ja2JLVFc5dVB6akQ1S3pSM0QzU1VoOE92RTdla3fSAVJBVV95cUxNMWNxUU03dEZrUThVU0FBSXVnamtxLW1oRkNRTHRyY1AweVlHZ09valNOSDd3VGRWbHAzcmZQUW5OTkJUR3dURDZvT2tqRUk0elBB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "6167d0540670",
   "u": "kanaighat",
   "sev": 2,
@@ -107,6 +140,17 @@
   "t": "Drugs reported in Chunarughat",
   "src": "Risingbd.com",
   "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UWFVeGNidFI1cFlHaE5mLVlqTXcwbkVJaUxuU0s3U2dKaGNucVVuOUlBbW9QU0hBc0NhZmFPaGlzUlU5dzYwdUlVQU1SbXU3aW5zNUJCdDAyMHfSAVJBVV95cUxQRk9qdGVxVkI0OFpxT1FGS2xnOVgxZWlhLU5Vd0lIdFBQRHVNeTNZMnJSTGRTdXdmUm1FOWU1VnRsQ3BLb0ZlMWdONHlCSy05NTRn?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "7e3e32c5cca7",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRjRGRWpwLUxTNHhEQVJyNlJzNzhTbHFTMVMzUzlGV3VzbEwzSEcwYXVWQWV1UHZYVG41M1lVeEhzRFprN09VZVZvbnFKS0t4c0RR?oc=5",
   "status": "approved"
  },
  {
