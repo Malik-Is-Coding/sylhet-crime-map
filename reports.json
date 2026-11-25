@@ -1,5 +1,16 @@
 [
  {
+  "id": "16c9a5deecbc",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-25",
+  "t": "Assault reported in Tahirpur",
+  "src": "sangbad.net",
+  "l": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RdzE3LXgxSUZCeEFWb01KUlBsdHpXNHAyN01kOTRrNVdGeXdKYnV5MHZocFZmMXQ4XzhFbEloMjhKQkZQa0E?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "6167d0540670",
   "u": "kanaighat",
   "sev": 2,
@@ -63,6 +74,39 @@
   "t": "Drugs reported in Kulaura",
   "src": "Moulvibazar Pratidin",
   "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrWk16c0lOY3lxUU1OdFRiOTlEWU13dXdaR1h4ZExRYzRvZEhGdFhKZVJZbUtKaThMeEw2akY3SXZocVdsYUNWZ0JSVHdQdUhI?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "1c33107f6e0e",
+  "u": "gowainghat",
+  "sev": 2,
+  "cat": "Smuggling",
+  "d": "2026-11-24",
+  "t": "Smuggling reported in Gowainghat",
+  "src": "এইমাত্র",
+  "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56S1ZqZUdqS0drVnRveFMzVjNaSXlDTjBhX0J3dDVFRkFyNEdvblFGRTZwNlhKOWtFWDFJcUROWnJhTkZhSGk5NVFNZFplV0pNRzBHLXdkSnljRlJ0TUd3VXdR?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "4e5a58ab005b",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Derai",
+  "src": "Daily Sunamkantha",
+  "l": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBzcmpJLU5tUmkwdXNQMjY1RHRWb0hETlZ4WGRJRmRDX2FRckZYa1Q3aG1zYU1ITWJoN25CQ2Z5SXhEcHM?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "8122495d13d2",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-24",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Risingbd.com",
+  "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UWFVeGNidFI1cFlHaE5mLVlqTXcwbkVJaUxuU0s3U2dKaGNucVVuOUlBbW9QU0hBc0NhZmFPaGlzUlU5dzYwdUlVQU1SbXU3aW5zNUJCdDAyMHfSAVJBVV95cUxQRk9qdGVxVkI0OFpxT1FGS2xnOVgxZWlhLU5Vd0lIdFBQRHVNeTNZMnJSTGRTdXdmUm1FOWU1VnRsQ3BLb0ZlMWdONHlCSy05NTRn?oc=5",
   "status": "approved"
  },
  {
