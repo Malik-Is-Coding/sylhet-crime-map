@@ -1,5 +1,16 @@
 [
  {
+  "id": "a50b6a7d2fdd",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-26",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Dhaka Mail",
+  "l": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yeG52Tk9RczhHSVFKUHZ4aVVfTlhBWE13Z3duc3c1enVnY1ZId3RWNldhWVFTY0FROHdQMFZSNVFqMTNLSThCSm05a0XSAVJBVV95cUxNdGEwYVUyTnUwMlNLQTZzT2ZKeTdvWWtZMmFJa0RCZERLdjkxdjB0MW81dkZHbEhsVFh1UTU0bXdxb2xYUFlkZ1l1UlVyeFg2T3dB?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "16c9a5deecbc",
   "u": "su_tahirpur",
   "sev": 2,
@@ -349,6 +360,17 @@
   "t": "Murder reported in Gowainghat",
   "src": "Rupali Bangladesh",
   "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SYi1JUW5PRElJMEkwdk1GdjNKZ1RxZ3NlYmJzZmJleEhYZHlZSGRQSUZTTm1HYkdfT3ViemJCNnlOcE1CNDRwQ2p1YjdmckpJS3VheDA5bW8wa2plclBFTV81NUdSNk5KQ1dzc3hqQQ?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "6fd894e146c8",
+  "u": "su_tahirpur",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-23",
+  "t": "Drugs reported in Tahirpur",
+  "src": "সময়ের কণ্ঠস্বর",
+  "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03X0NmTEx2MDNWUjBnV0tPRnhFOUl5T1hsT01lbS12aDFhdE9heU5wZzNuazdkdXBRaThqQTBXQVF5NEFWWjJfbVI0Umc0bHZtcy1HdnRwZE1rWUVQN19xZE1JVjhqX1BXWnc?oc=5",
   "status": "approved"
  },
  {
