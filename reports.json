@@ -341,6 +341,17 @@
   "status": "approved"
  },
  {
+  "id": "3750a9c6df0b",
+  "u": "gowainghat",
+  "sev": 4,
+  "cat": "Murder",
+  "d": "2026-11-23",
+  "t": "Murder reported in Gowainghat",
+  "src": "Rupali Bangladesh",
+  "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SYi1JUW5PRElJMEkwdk1GdjNKZ1RxZ3NlYmJzZmJleEhYZHlZSGRQSUZTTm1HYkdfT3ViemJCNnlOcE1CNDRwQ2p1YjdmckpJS3VheDA5bW8wa2plclBFTV81NUdSNk5KQ1dzc3hqQQ?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "6f501915fbef",
   "u": "ha_shaistaganj",
   "sev": 2,
