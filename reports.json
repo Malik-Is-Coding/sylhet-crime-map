@@ -11,6 +11,28 @@
   "status": "approved"
  },
  {
+  "id": "55273afd94b8",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Robbery",
+  "d": "2026-11-26",
+  "t": "Robbery reported in Chunarughat",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iTC10YUhRM0c5MFBTbUNEV0hrcGFXbmhFMVdhWVdCaVRrcXRXNkNnRWxEUDhuMk8tYXZZNFRJUm9DYUUyZHRTOVRzRHVwZ3dHbWRR?oc=5",
+  "status": "approved"
+ },
+ {
+  "id": "766aacce40b5",
+  "u": "ha_chunarughat",
+  "sev": 2,
+  "cat": "Drugs",
+  "d": "2026-11-26",
+  "t": "Drugs reported in Chunarughat",
+  "src": "Habiganj ExPress |",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUDMybXA3RndfRk5NdkZCeXV0NnNSRmhlOTZfcjVJdFpBU0JPUW1DMm1ndEttTmFlczNGX2dFS1pxQnhBcnNFQ0RSUFdqM3ZoZGtr?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "16c9a5deecbc",
   "u": "su_tahirpur",
   "sev": 2,
