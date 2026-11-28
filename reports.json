@@ -1,5 +1,16 @@
 [
  {
+  "id": "6d6ab5fb7f81",
+  "u": "su_derai",
+  "sev": 2,
+  "cat": "Assault",
+  "d": "2026-11-28",
+  "t": "Assault reported in Derai",
+  "src": "Shyamal Sylhet",
+  "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IcUgzRTJpS0p3NjNyVUxhOFY5VUZCbGQxTXFwb2lHSlJGYVFrUjJPbVdlenNDZktVOTczUGgzRVg0aWlJcWZIRU5qU0lFclJqREFr?oc=5",
+  "status": "approved"
+ },
+ {
   "id": "20d63ed152ae",
   "u": "ha_madhabpur",
   "sev": 2,
